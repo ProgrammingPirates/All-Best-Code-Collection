@@ -1,0 +1,104 @@
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-5363022783728631482">
+<script type="text/javascript">
+Formatter = {
+ format : function(input, indent, ftColor, bgColor) {
+  var output = '<pre style="white-space:pre-wrap; font-family: monospace; color: #'
+    + ftColor
+    + '; background-color: #'
+    + bgColor
+    + ';font-size: 11pt; border: 1px dashed #999999; line-height: 14pt; padding: 5px; overflow: auto; width: 100%"><code>';
+  var tab = '';
+  for (var i = 0; i < indent; i++) {
+   tab += ' ';
+  }
+
+  var verticalPipeFound = false;
+
+  for (var i = 0; i < input.length; i++) {
+   var code = input.charCodeAt(i);
+   switch (code) {
+    case 9 : // TAB
+     output += tab;
+     break;
+    case 10 : // LF
+    case 13 : // CR
+     output += "\n";
+     if (code == 13 && i + 1 < input.length
+       && input.charCodeAt(i + 1) == 10) {
+      i++;
+     }
+     break;
+    case 34 :
+     output += "&quot;";
+     break;
+    case 38 :
+     output += "&amp;";
+     break;
+    case 60 :
+     output += "&lt;";
+     break;
+    case 62 :
+     output += "&gt;";
+     break;
+    case 124 : // vertical pipe
+     output += "&#124;";
+     verticalPipeFound = true;
+     break;
+    default :
+     if (code >= 32 && code <= 127) {
+      output += input.charAt(i);
+     } else {
+      output += "&#" + code + ";";
+     }
+     break;
+   }
+  }
+  output += "\n</code></pre>";
+  return output;
+ },
+
+ execute : function(inputArea, outputArea, previewDIV, ftColor, bgColor) {
+  var code = inputArea.value;
+  var fcode = this.format(code, 4, ftColor, bgColor);
+  outputArea.value = fcode;
+  outputArea.focus();
+  outputArea.select();
+  previewDIV.innerHTML = fcode;
+ },
+
+ clear : function(inputArea, outputArea, previewDIV) {
+  inputArea.value = "";
+  outputArea.value = "";
+  previewDIV.innerHTML = "";
+ }
+
+}
+</script>
+<script src="http://jscolor.com/jscolor/jscolor.js" type="text/javascript">
+</script>
+<br />
+<b>The Xoom Online Source Code Formatter Tool Translate Code Fragment into HTML Safe String.</b><br />
+<b>Paste your source code into the source code area then click the "Format" button.</b><br />
+<br />
+<br />
+<form name="CFForm">
+<h3>
+
+Source code(Paste your source code below then click Format button):</h3>
+<textarea cols="60" name="inputArea" rows="6" style="height: 137px; width: 100%;"></textarea><br />
+<b>Font Colour:</b><input class="color" id="ftColor" name="ftColor" value="000000" />&nbsp;&nbsp;<b>Background Colour:</b><input class="color" id="bgColor" name="bgColor" value="BDD3EF" /><br />
+<input name="Format" onclick="Formatter.execute(document.CFForm.inputArea,document.CFForm.outputArea,document.getElementById('outputPreview'), document.getElementById('ftColor').value, document.getElementById('bgColor').value);" type="button" value="Format" /><input name="Clear" onclick="Formatter.clear(document.CFForm.inputArea,document.CFForm.outputArea,document.getElementById('outputPreview'));" type="button" value="Clear" /><br />
+<h3>
+
+Formatted Code:</h3>
+<textarea cols="60" name="outputArea" rows="6" style="height: 137px; width: 100%;"></textarea><br />
+<h3>
+
+Preview:</h3>
+<div id="outputPreview">
+</div>
+</form></div>
+<br />

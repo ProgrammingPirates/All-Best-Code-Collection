@@ -1,0 +1,753 @@
+
+<html>
+<head>
+
+<meta charset="utf-8"></meta>
+<title>Stylish Texts Online - Cool Fancy Stylish Fonts Anywhere</title>
+<meta content="Stylish Texts Online - Cool Fancy Stylish Fonts Anywhere" name="title"></meta>
+<meta content="Stylishtexts ?? ?? ?? ?? ?? And may more fonts whish is acceptable for anywhere you want to use." name="description"></meta>
+<meta content="stylish text, stylish text on whatsapp, stylish text and fonts, stylish text apk, stylish text png, stylish texts for FB, stylish text app, stylish text for facebook, stylish text online, stylish texts app download, stylish text copy and paste, happy birthday stylish text" name="keywords"></meta>
+<meta content="index, follow" name="robots"></meta>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"></meta>
+<meta content="English" name="language"></meta>
+
+<meta content="width=device-width, initial-scale=1" name="viewport"></meta>
+<meta content="sl-Y0l-14Eh0fvMazFTuusFfxIDP5JlT9rAa4XZ6_Rs" name="google-site-verification"></meta>
+
+<link crossorigin="anonymous" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" rel="stylesheet"></link>
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"></link>
+<link href="https://sahibweb.blogspot.com/" rel="me"></link>
+<link href="https://1.bp.blogspot.com/-Eg-HXXZYkmI/YEOMbQRXPCI/AAAAAAAABq0/CufU5rTbAGYP3SNZePe7dInvYyvGlBP3ACLcBGAsYHQ/s0/unnamed.webp" rel="icon" sizes="16x16" type="image/gif"></link>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-VY2F3JR2DQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VY2F3JR2DQ');
+</script>
+  
+</head>
+<body>
+
+<p align="center"> 
+
+<hr />
+
+<center>
+<p>
+Xoom Stylish Text Generator allows to generate stylish,cool, fancy text for Instagram or other networks or apps. Just Copy &amp; Paste.
+</p>
+</center>
+<textarea class="form-control fancytext" name="text" placeholder="Type or paste text here.." required="required" style="background-color: #F7B239 !important; color: white; margin-top: 5px; width: 100%;" type="text" value=""></textarea>
+<br />
+
+
+
+
+<div id="result"><div class="input-group mb-3"><input class="form-control text-1" id="copy_0" readonly="readonly" type="text" value="?????????????? ????????" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_0" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-2" id="copy_1" readonly="readonly" type="text" value="?????????????? ????????" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_1" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-3" id="copy_2" readonly="readonly" type="text" value="??  ????????? ??????  ????" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_2" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-4" id="copy_3" readonly="readonly" type="text" value="?????????????? ????????" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_3" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-5" id="copy_4" readonly="readonly" type="text" value="?????????????? ????????" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_4" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-6" id="copy_5" readonly="readonly" type="text" value="P???????????? ????????" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_5" style="cursor: pointer;">Copy</span></div></div>
+<div class="input-group mb-3"><input class="form-control text-7" id="copy_6" readonly="readonly" type="text" value="Preview Text" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_6" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-8" id="copy_7" readonly="readonly" type="text" value="?? ? ??  ??  ?????????????? ????????  ??  ?? ? ??" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_7" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-9" id="copy_8" readonly="readonly" type="text" value="??????? ??x?" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_8" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-10" id="copy_9" readonly="readonly" type="text" value="?x?? ??i????" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_9" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-11" id="copy_10" readonly="readonly" type="text" value="P?   r?   e?   v?   i?   e?   w?    T?   e?   x?   t?" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_10" style="cursor: pointer;">Copy</span></div></div>
+<div class="input-group mb-3"><input class="form-control text-12" id="copy_11" readonly="readonly" type="text" value="P??  ?r??  ?e??  ?v??  ?i??  ?e??  ?w? ?  ?T??  ?e??  ?x??  ?t?" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_11" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-13" id="copy_12" readonly="readonly" type="text" value="?????????????? ????????" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_12" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-14" id="copy_13" readonly="readonly" type="text" value="lx?T w?iv???" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_13" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-15" id="copy_14" readonly="readonly" type="text" value="P?"??????????????r??¯???¨??????????e???^??¸???v?????^??´`???????i?°?"??"??`?_???????e????????????????w??????¨?¨????????? ?"??_?????T?¯??¯???¯¯???e?????????_???????x??¯??"???????????t?????" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_14" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-16" id="copy_15" readonly="readonly" type="text" value="?????????????? ????????" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_15" style="cursor: pointer;">Copy</span></div></div>
+
+
+<div class="input-group mb-3"><input class="form-control text-17" id="copy_16" readonly="readonly" type="text" value="??????w ????" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_16" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-18" id="copy_17" readonly="readonly" type="text" value="??????? ????" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_17" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-19" id="copy_18" readonly="readonly" type="text" value="??????? ????" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_18" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-20" id="copy_19" readonly="readonly" type="text" value="??????? ????" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_19" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-21" id="copy_20" readonly="readonly" type="text" value="P?????? T?xl" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_20" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-22" id="copy_21" readonly="readonly" type="text" value="??????? ????" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_21" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-23" id="copy_22" readonly="readonly" type="text" value="??????? ????" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_22" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-24" id="copy_23" readonly="readonly" type="text" value="P???i?? ????" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_23" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-25" id="copy_24" readonly="readonly" type="text" value="pre?ie? text" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_24" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-26" id="copy_25" readonly="readonly" type="text" value="?????????????? ????????" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_25" style="cursor: pointer;">Copy</span></div></div>
+<div class="input-group mb-3"><input class="form-control text-27" id="copy_26" readonly="readonly" type="text" value="?????????????? ????????" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_26" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-28" id="copy_27" readonly="readonly" type="text" value="?????????????? ????????" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_27" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-29" id="copy_28" readonly="readonly" type="text" value="?????????????? ????????" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_28" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-30" id="copy_29" readonly="readonly" type="text" value="?????????????? ????????" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_29" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-31" id="copy_30" readonly="readonly" type="text" value="P?SVIS? ?SX?" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_30" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-32" id="copy_31" readonly="readonly" type="text" value="??????? ????" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_31" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-33" id="copy_32" readonly="readonly" type="text" value="þrêvïêw †êx†" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_32" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-34" id="copy_33" readonly="readonly" type="text" value="???Vl?? ????" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_33" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-35" id="copy_34" readonly="readonly" type="text" value="??????? ????" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_34" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-36" id="copy_35" readonly="readonly" type="text" value="???v??W ????" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_35" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-37" id="copy_36" readonly="readonly" type="text" value="?P??r??e??v??i??e??w? ?T??e??x??t?" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_36" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-38" id="copy_37" readonly="readonly" type="text" value="?P??r??e??v??i??e??w? ?T??e??x??t?" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_37" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-39" id="copy_38" readonly="readonly" type="text" value="?P?r?e?v?i?e?w? ?T?e?x?t?" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_38" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-40" id="copy_39" readonly="readonly" type="text" value="¦P¦r¦e¦v¦i¦e¦w¦ ¦T¦e¦x¦t¦" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_39" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-41" id="copy_40" readonly="readonly" type="text" value="(????)? ? Preview Text ?" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_40" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-42" id="copy_41" readonly="readonly" type="text" value="Preview Text ???" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_41" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-43" id="copy_42" readonly="readonly" type="text" value="Preview¦Text (???)" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_42" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-44" id="copy_43" readonly="readonly" type="text" value="??Preview Text?" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_43" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-45" id="copy_44" readonly="readonly" type="text" value="˜”*°•.˜”*°• Preview Text •°*”˜.•°*”˜" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_44" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-46" id="copy_45" readonly="readonly" type="text" value="[¯_P][¯_r][¯_e][¯_v][¯_i][¯_e][¯_w] [¯_T][¯_e][¯_x][¯_t]" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_45" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-47" id="copy_46" readonly="readonly" type="text" value="P?r?e?v?i?e?w? ?T?e?x?t?" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_46" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-48" id="copy_47" readonly="readonly" type="text" value="f???ì?? ??×?" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_47" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-49" id="copy_48" readonly="readonly" type="text" value="??E?IE? TE?T" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_48" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-50" id="copy_49" readonly="readonly" type="text" value="??????? ????" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_49" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-51" id="copy_50" readonly="readonly" type="text" value="P?r?e?v?i?e?w? ?T?e?x?t?" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_50" style="cursor: pointer;">Copy</span></div></div>
+<div class="input-group mb-3"><input class="form-control text-52" id="copy_51" readonly="readonly" type="text" value="P?r?e?v?i?e?w? ?T?e?x?t?" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_51" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-53" id="copy_52" readonly="readonly" type="text" value="P?r?e?v?i?e?w? ?T?e?x?t?" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_52" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-54" id="copy_53" readonly="readonly" type="text" value="P_r_e_v_i_e_w_ _T_e_x_t_" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_53" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-55" id="copy_54" readonly="readonly" type="text" value="P?r?e?v?i?e?w? ?T?e?x?t?" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_54" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-56" id="copy_55" readonly="readonly" type="text" value="P?r?e?v?i?e?w? ?T?e?x?t?" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_55" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-57" id="copy_56" readonly="readonly" type="text" value="P?r?e?v?i?e?w? ?T?e?x?t" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_56" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-58" id="copy_57" readonly="readonly" type="text" value="P?r?e?v?i?e?w? ?T?e?x?t?" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_57" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-59" id="copy_58" readonly="readonly" type="text" value="P??r??e??v??i??e??w?? ??T??e??x??t??" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_58" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-60" id="copy_59" readonly="readonly" type="text" value="Wingdings: ??????????????? ????????" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_59" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-61" id="copy_60" readonly="readonly" type="text" value="?  ??  ?????????????? ????????  ??  ?" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_60" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-62" id="copy_61" readonly="readonly" type="text" value="?  ??  ?????????????? ????????  ??  ?" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_61" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-63" id="copy_62" readonly="readonly" type="text" value="??  ??  ?????????????? ????????  ??  ??" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_62" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-64" id="copy_63" readonly="readonly" type="text" value="??  ??  ?????????????? ????????  ??  ??" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_63" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-65" id="copy_64" readonly="readonly" type="text" value="—(••÷  ??  ?????????????? ????????  ??  ÷••(—" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_64" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-66" id="copy_65" readonly="readonly" type="text" value="????  ???e???€? ???????  ???" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_65" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-67" id="copy_66" readonly="readonly" type="text" value="???  ?????????? ????T  ???" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_66" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-68" id="copy_67" readonly="readonly" type="text" value="`•.¸¸.•´´¯`••._.• ???????W ??e???? •._.••`¯´´•.¸¸.•`" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_67" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-69" id="copy_68" readonly="readonly" type="text" value="????  ???????? ??X??  ????" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_68" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-70" id="copy_69" readonly="readonly" type="text" value="|!¤*'~``~'*¤!| ?r???????? t????T |!¤*'~``~'*¤!|" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_69" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-71" id="copy_70" readonly="readonly" type="text" value="???  ?r???i??? ??ex??  ???" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_70" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-72" id="copy_71" readonly="readonly" type="text" value="????  ??r??I???? T??????  ??" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_71" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-73" id="copy_72" readonly="readonly" type="text" value="¸,ø¤º°`°º¤ø,¸¸,ø¤º° ????????€? Tex?? °º¤ø,¸¸,ø¤º°`°º¤ø,¸" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_72" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-74" id="copy_73" readonly="readonly" type="text" value="????  ????????? ???????  ???" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_73" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-75" id="copy_74" readonly="readonly" type="text" value="????  ?r???????? ?e????  ????" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_74" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-76" id="copy_75" readonly="readonly" type="text" value="¦¦¦¦?--  ??R?V??e? ???????? --?¦¦¦¦" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_75" style="cursor: pointer;">Copy</span></div></div>
+<div class="input-group mb-3"><input class="form-control text-77" id="copy_76" readonly="readonly" type="text" value="]|I{•------» ?R????e?? ??€x? «------•}I|[" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_76" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-78" id="copy_77" readonly="readonly" type="text" value="??  ??R?????e?? ???????  ???" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_77" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-79" id="copy_78" readonly="readonly" type="text" value="????  ?R??I??? ?e????  ???" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_78" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-80" id="copy_79" readonly="readonly" type="text" value="???  ????V??ew T?x??  ????" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_79" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-81" id="copy_80" readonly="readonly" type="text" value="????  ????VI??? ??e???  ???" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_80" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-82" id="copy_81" readonly="readonly" type="text" value="???  p????????? T???T  ??" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_81" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-83" id="copy_82" readonly="readonly" type="text" value="???  P???v???W ??E??t  ???" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_82" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-84" id="copy_83" readonly="readonly" type="text" value="????  ???ViEW t??????  ???" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_83" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-85" id="copy_84" readonly="readonly" type="text" value="???  P????i??? ????Xt  ???" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_84" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-86" id="copy_85" readonly="readonly" type="text" value="??  ??R€???W T?x??  ????" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_85" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-87" id="copy_86" readonly="readonly" type="text" value=".  ??  ?????????????? ????????  ??  ." /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_86" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-88" id="copy_87" readonly="readonly" type="text" value="??  ??  ?????????????? ????????  ??  ??" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_87" style="cursor: pointer;">Copy</span></div></div><div class="input-group mb-3"><input class="form-control text-89" id="copy_88" readonly="readonly" type="text" value="?? ? ??  ??  ?????????????? ????????  ??  ?? ? ??" /><div class="input-group-append"><span class="input-group-text copybutton" data-clipboard-action="copy" data-clipboard-target="#copy_88" style="cursor: pointer;">Copy</span></div></div></div>
+<center>
+<button class="btn btn-secondary loadmore">Load More</button>
+</center>
+
+
+
+<hr />
+<!-- Fancy Font Generator Tool Details -->
+ 
+
+ <!-- End Stylish Text Generator Tool Details -->
+ 
+ 
+  
+  
+      <!-- Add icon library -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"></link>
+
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+
+<script>
+    /*!
+ * clipboard.js v2.0.0
+ * https://zenorocha.github.io/clipboard.js
+ * 
+ * Licensed MIT Ã‚Â© Zeno Rocha
+ */
+!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==typeof define&&define.amd?define([],e):"object"==typeof exports?exports.ClipboardJS=e():t.ClipboardJS=e()}(this,function(){return function(t){function e(o){if(n[o])return n[o].exports;var r=n[o]={i:o,l:!1,exports:{}};return t[o].call(r.exports,r,r.exports,e),r.l=!0,r.exports}var n={};return e.m=t,e.c=n,e.i=function(t){return t},e.d=function(t,n,o){e.o(t,n)||Object.defineProperty(t,n,{configurable:!1,enumerable:!0,get:o})},e.n=function(t){var n=t&&t.__esModule?function(){return t.default}:function(){return t};return e.d(n,"a",n),n},e.o=function(t,e){return Object.prototype.hasOwnProperty.call(t,e)},e.p="",e(e.s=3)}([function(t,e,n){var o,r,i;!function(a,c){r=[t,n(7)],o=c,void 0!==(i="function"==typeof o?o.apply(e,r):o)&&(t.exports=i)}(0,function(t,e){"use strict";function n(t,e){if(!(t instanceof e))throw new TypeError("Cannot call a class as a function")}var o=function(t){return t&&t.__esModule?t:{default:t}}(e),r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(t){return typeof t}:function(t){return t&&"function"==typeof Symbol&&t.constructor===Symbol&&t!==Symbol.prototype?"symbol":typeof t},i=function(){function t(t,e){for(var n=0;n<e.length;n++){var o=e[n];o.enumerable=o.enumerable||!1,o.configurable=!0,"value"in o&&(o.writable=!0),Object.defineProperty(t,o.key,o)}}return function(e,n,o){return n&&t(e.prototype,n),o&&t(e,o),e}}(),a=function(){function t(e){n(this,t),this.resolveOptions(e),this.initSelection()}return i(t,[{key:"resolveOptions",value:function(){var t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};this.action=t.action,this.container=t.container,this.emitter=t.emitter,this.target=t.target,this.text=t.text,this.trigger=t.trigger,this.selectedText=""}},{key:"initSelection",value:function(){this.text?this.selectFake():this.target&&this.selectTarget()}},{key:"selectFake",value:function(){var t=this,e="rtl"==document.documentElement.getAttribute("dir");this.removeFake(),this.fakeHandlerCallback=function(){return t.removeFake()},this.fakeHandler=this.container.addEventListener("click",this.fakeHandlerCallback)||!0,this.fakeElem=document.createElement("textarea"),this.fakeElem.style.fontSize="12pt",this.fakeElem.style.border="0",this.fakeElem.style.padding="0",this.fakeElem.style.margin="0",this.fakeElem.style.position="absolute",this.fakeElem.style[e?"right":"left"]="-9999px";var n=window.pageYOffset||document.documentElement.scrollTop;this.fakeElem.style.top=n+"px",this.fakeElem.setAttribute("readonly",""),this.fakeElem.value=this.text,this.container.appendChild(this.fakeElem),this.selectedText=(0,o.default)(this.fakeElem),this.copyText()}},{key:"removeFake",value:function(){this.fakeHandler&&(this.container.removeEventListener("click",this.fakeHandlerCallback),this.fakeHandler=null,this.fakeHandlerCallback=null),this.fakeElem&&(this.container.removeChild(this.fakeElem),this.fakeElem=null)}},{key:"selectTarget",value:function(){this.selectedText=(0,o.default)(this.target),this.copyText()}},{key:"copyText",value:function(){var t=void 0;try{t=document.execCommand(this.action)}catch(e){t=!1}this.handleResult(t)}},{key:"handleResult",value:function(t){this.emitter.emit(t?"success":"error",{action:this.action,text:this.selectedText,trigger:this.trigger,clearSelection:this.clearSelection.bind(this)})}},{key:"clearSelection",value:function(){this.trigger&&this.trigger.focus(),window.getSelection().removeAllRanges()}},{key:"destroy",value:function(){this.removeFake()}},{key:"action",set:function(){var t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:"copy";if(this._action=t,"copy"!==this._action&&"cut"!==this._action)throw new Error('Invalid "action" value, use either "copy" or "cut"')},get:function(){return this._action}},{key:"target",set:function(t){if(void 0!==t){if(!t||"object"!==(void 0===t?"undefined":r(t))||1!==t.nodeType)throw new Error('Invalid "target" value, use a valid Element');if("copy"===this.action&&t.hasAttribute("disabled"))throw new Error('Invalid "target" attribute. Please use "readonly" instead of "disabled" attribute');if("cut"===this.action&&(t.hasAttribute("readonly")||t.hasAttribute("disabled")))throw new Error('Invalid "target" attribute. You can\'t cut text from elements with "readonly" or "disabled" attributes');this._target=t}},get:function(){return this._target}}]),t}();t.exports=a})},function(t,e,n){function o(t,e,n){if(!t&&!e&&!n)throw new Error("Missing required arguments");if(!c.string(e))throw new TypeError("Second argument must be a String");if(!c.fn(n))throw new TypeError("Third argument must be a Function");if(c.node(t))return r(t,e,n);if(c.nodeList(t))return i(t,e,n);if(c.string(t))return a(t,e,n);throw new TypeError("First argument must be a String, HTMLElement, HTMLCollection, or NodeList")}function r(t,e,n){return t.addEventListener(e,n),{destroy:function(){t.removeEventListener(e,n)}}}function i(t,e,n){return Array.prototype.forEach.call(t,function(t){t.addEventListener(e,n)}),{destroy:function(){Array.prototype.forEach.call(t,function(t){t.removeEventListener(e,n)})}}}function a(t,e,n){return u(document.body,t,e,n)}var c=n(6),u=n(5);t.exports=o},function(t,e){function n(){}n.prototype={on:function(t,e,n){var o=this.e||(this.e={});return(o[t]||(o[t]=[])).push({fn:e,ctx:n}),this},once:function(t,e,n){function o(){r.off(t,o),e.apply(n,arguments)}var r=this;return o._=e,this.on(t,o,n)},emit:function(t){var e=[].slice.call(arguments,1),n=((this.e||(this.e={}))[t]||[]).slice(),o=0,r=n.length;for(o;o<r;o++)n[o].fn.apply(n[o].ctx,e);return this},off:function(t,e){var n=this.e||(this.e={}),o=n[t],r=[];if(o&&e)for(var i=0,a=o.length;i<a;i++)o[i].fn!==e&&o[i].fn._!==e&&r.push(o[i]);return r.length?n[t]=r:delete n[t],this}},t.exports=n},function(t,e,n){var o,r,i;!function(a,c){r=[t,n(0),n(2),n(1)],o=c,void 0!==(i="function"==typeof o?o.apply(e,r):o)&&(t.exports=i)}(0,function(t,e,n,o){"use strict";function r(t){return t&&t.__esModule?t:{default:t}}function i(t,e){if(!(t instanceof e))throw new TypeError("Cannot call a class as a function")}function a(t,e){if(!t)throw new ReferenceError("this hasn't been initialised - super() hasn't been called");return!e||"object"!=typeof e&&"function"!=typeof e?t:e}function c(t,e){if("function"!=typeof e&&null!==e)throw new TypeError("Super expression must either be null or a function, not "+typeof e);t.prototype=Object.create(e&&e.prototype,{constructor:{value:t,enumerable:!1,writable:!0,configurable:!0}}),e&&(Object.setPrototypeOf?Object.setPrototypeOf(t,e):t.__proto__=e)}function u(t,e){var n="data-clipboard-"+t;if(e.hasAttribute(n))return e.getAttribute(n)}var l=r(e),s=r(n),f=r(o),d="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(t){return typeof t}:function(t){return t&&"function"==typeof Symbol&&t.constructor===Symbol&&t!==Symbol.prototype?"symbol":typeof t},h=function(){function t(t,e){for(var n=0;n<e.length;n++){var o=e[n];o.enumerable=o.enumerable||!1,o.configurable=!0,"value"in o&&(o.writable=!0),Object.defineProperty(t,o.key,o)}}return function(e,n,o){return n&&t(e.prototype,n),o&&t(e,o),e}}(),p=function(t){function e(t,n){i(this,e);var o=a(this,(e.__proto__||Object.getPrototypeOf(e)).call(this));return o.resolveOptions(n),o.listenClick(t),o}return c(e,t),h(e,[{key:"resolveOptions",value:function(){var t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};this.action="function"==typeof t.action?t.action:this.defaultAction,this.target="function"==typeof t.target?t.target:this.defaultTarget,this.text="function"==typeof t.text?t.text:this.defaultText,this.container="object"===d(t.container)?t.container:document.body}},{key:"listenClick",value:function(t){var e=this;this.listener=(0,f.default)(t,"click",function(t){return e.onClick(t)})}},{key:"onClick",value:function(t){var e=t.delegateTarget||t.currentTarget;this.clipboardAction&&(this.clipboardAction=null),this.clipboardAction=new l.default({action:this.action(e),target:this.target(e),text:this.text(e),container:this.container,trigger:e,emitter:this})}},{key:"defaultAction",value:function(t){return u("action",t)}},{key:"defaultTarget",value:function(t){var e=u("target",t);if(e)return document.querySelector(e)}},{key:"defaultText",value:function(t){return u("text",t)}},{key:"destroy",value:function(){this.listener.destroy(),this.clipboardAction&&(this.clipboardAction.destroy(),this.clipboardAction=null)}}],[{key:"isSupported",value:function(){var t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:["copy","cut"],e="string"==typeof t?[t]:t,n=!!document.queryCommandSupported;return e.forEach(function(t){n=n&&!!document.queryCommandSupported(t)}),n}}]),e}(s.default);t.exports=p})},function(t,e){function n(t,e){for(;t&&t.nodeType!==o;){if("function"==typeof t.matches&&t.matches(e))return t;t=t.parentNode}}var o=9;if("undefined"!=typeof Element&&!Element.prototype.matches){var r=Element.prototype;r.matches=r.matchesSelector||r.mozMatchesSelector||r.msMatchesSelector||r.oMatchesSelector||r.webkitMatchesSelector}t.exports=n},function(t,e,n){function o(t,e,n,o,r){var a=i.apply(this,arguments);return t.addEventListener(n,a,r),{destroy:function(){t.removeEventListener(n,a,r)}}}function r(t,e,n,r,i){return"function"==typeof t.addEventListener?o.apply(null,arguments):"function"==typeof n?o.bind(null,document).apply(null,arguments):("string"==typeof t&&(t=document.querySelectorAll(t)),Array.prototype.map.call(t,function(t){return o(t,e,n,r,i)}))}function i(t,e,n,o){return function(n){n.delegateTarget=a(n.target,e),n.delegateTarget&&o.call(t,n)}}var a=n(4);t.exports=r},function(t,e){e.node=function(t){return void 0!==t&&t instanceof HTMLElement&&1===t.nodeType},e.nodeList=function(t){var n=Object.prototype.toString.call(t);return void 0!==t&&("[object NodeList]"===n||"[object HTMLCollection]"===n)&&"length"in t&&(0===t.length||e.node(t[0]))},e.string=function(t){return"string"==typeof t||t instanceof String},e.fn=function(t){return"[object Function]"===Object.prototype.toString.call(t)}},function(t,e){function n(t){var e;if("SELECT"===t.nodeName)t.focus(),e=t.value;else if("INPUT"===t.nodeName||"TEXTAREA"===t.nodeName){var n=t.hasAttribute("readonly");n||t.setAttribute("readonly",""),t.select(),t.setSelectionRange(0,t.value.length),n||t.removeAttribute("readonly"),e=t.value}else{t.hasAttribute("contenteditable")&&t.focus();var o=window.getSelection(),r=document.createRange();r.selectNodeContents(t),o.removeAllRanges(),o.addRange(r),e=o.toString()}return e}t.exports=n}])});
+</script>
+
+
+<script>
+    
+
+
+            //try {
+                var reverseIsDisabled = false;
+                //<![CDATA[
+                var luni = new Lunicode();
+luni.tools.creepify.options.maxHeight = 10;
+
+
+function backward(text) {
+  return $("#english-text").val();
+}
+
+
+
+
+
+
+    function createMap(chars) {
+      var alphanum = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z", "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z", "0", "1", "2", "3", "4", "5", "6", "7", "8", "9"];
+      var i = 0;
+      var map = {};
+      for(var c of chars) {
+        map[ alphanum[i] ] = c;
+        i++;
+      }
+      return JSON.stringify(map);
+    }
+
+
+    function forward(text) {
+      text = text.trim();
+      if(text === "") {
+        return "";
+      }
+      var finalText = "";
+      finalText += applyCharMap(oldEnglishCharMap, text) + "\n\n";
+      finalText += applyCharMap(medievalCharMap, text) + "\n\n";
+      finalText += fullCrazy(text) + "\n\n";
+      finalText += applyCharMap(cursiveCharMap, text) + "\n\n";
+      finalText += scriptify(text) + "\n\n";
+      finalText += applyCharMap(doubleStruckCharMap, text) + "\n\n";
+      finalText += applyCharMap(wideTextCharMap, text) + "\n\n";
+      finalText += cuteText(text) + "\n\n";
+      finalText += luni.tools.tiny.encode(text) + "\n\n";
+      finalText += luni.tools.flip.encode(text) + "\n\n";
+      finalText += luni.tools.roundsquares.encode(text) + "\n\n";
+      finalText += luni.tools.squares.encode(text) + "\n\n";
+      finalText += applyCharMap(squaresCharMap, text) + "\n\n";
+      finalText += luni.tools.mirror.encode(text) + "\n\n";
+      finalText += luni.tools.creepify.encode(text) + "\n\n";
+      finalText += applyCharMap(invertedSquaresCharMap, text) + "\n\n";
+      finalText += applyCharMap(subscriptCharMap, text) + "\n\n";
+      finalText += applyCharMap(superscriptCharMap, text) + "\n\n";
+      finalText += luni.tools.bubbles.encode(text) + "\n\n";
+      finalText += applyCharMap(squiggleCharMap, text) + "\n\n";
+      finalText += applyCharMap(squiggle2CharMap, text) + "\n\n";
+      finalText += applyCharMap(squiggle3CharMap, text) + "\n\n";
+      finalText += applyCharMap(squiggle4CharMap, text) + "\n\n";
+      finalText += applyCharMap(squiggle5CharMap, text) + "\n\n";
+      finalText += applyCharMap(squiggle6CharMap, text) + "\n\n";
+      finalText += applyCharMap(boldCharMap, text) + "\n\n";
+      finalText += applyCharMap(boldSansCharMap, text) + "\n\n";
+      finalText += applyCharMap(italicCharMap, text) + "\n\n";
+      finalText += applyCharMap(boldItalicCharMap, text) + "\n\n";
+      finalText += applyCharMap(monospaceCharMap, text) + "\n\n";
+      finalText += applyCharMap(upperAnglesCharMap, text) + "\n\n";
+      finalText += applyCharMap(greekCharMap, text) + "\n\n";
+      finalText += applyCharMap(symbolsCharMap, text) + "\n\n";
+      finalText += applyCharMap(currencyCharMap, text) + "\n\n";
+      finalText += applyCharMap(asianStyleCharMap, text) + "\n\n";
+      finalText += applyCharMap(asianStyle2CharMap, text) + "\n\n";
+      finalText += thickBlockFramed(text) + "\n\n";
+      finalText += diametricAngleFrame(text) + "\n\n";
+      finalText += wavyJoiner(text) + "\n\n";
+      finalText += dottyJoiner(text) + "\n\n";
+      finalText += kirbyHug(text) + "\n\n";
+      finalText += vaporwaveText(text) + "\n\n";
+      finalText += littleSparkles(text) + "\n\n";
+      finalText += weirdBox(text) + "\n\n";
+      finalText += firework(text) + "\n\n";
+      finalText += applyCharMap(bentTextCharMap, text) + "\n\n";
+      finalText += applyCharMap(neonCharMap, text) + "\n\n";
+      finalText += applyCharMap(futureAlienCharMap, text) + "\n\n";
+      finalText += strikeThrough(text) + "\n\n";
+      finalText += tildeStrikeThrough(text) + "\n\n";
+      finalText += slashThrough(text) + "\n\n";
+      finalText += underline(text) + "\n\n";
+      finalText += doubleUnderline(text) + "\n\n";
+      finalText += stinky(text) + "\n\n";
+      finalText += heartsBetween(text) + "\n\n";
+      finalText += arrowBelow(text) + "\n\n";
+      finalText += crossAboveBelow(text) + "\n\n";
+      finalText += "Wingdings: "+wingdings(text) + "\n\n";
+      finalText += cuteText(text) + "\n\n";
+      finalText += cuteText(text) + "\n\n";
+      finalText += cuteText(text) + "\n\n";
+      finalText += cuteText(text) + "\n\n";
+      finalText += cuteText(text) + "\n\n";
+      finalText += crazyWithFlourishOrSymbols(text) + "\n\n";
+      finalText += crazyWithFlourishOrSymbols(text) + "\n\n";
+      finalText += crazyWithFlourishOrSymbols(text) + "\n\n";
+      finalText += crazyWithFlourishOrSymbols(text) + "\n\n";
+      finalText += crazyWithFlourishOrSymbols(text) + "\n\n";
+      finalText += crazyWithFlourishOrSymbols(text) + "\n\n";
+      finalText += crazyWithFlourishOrSymbols(text) + "\n\n";
+      finalText += crazyWithFlourishOrSymbols(text) + "\n\n";
+      finalText += crazyWithFlourishOrSymbols(text) + "\n\n";
+      finalText += crazyWithFlourishOrSymbols(text) + "\n\n";
+      finalText += crazyWithFlourishOrSymbols(text) + "\n\n";
+      finalText += crazyWithFlourishOrSymbols(text) + "\n\n";
+      finalText += crazyWithFlourishOrSymbols(text) + "\n\n";
+      finalText += crazyWithFlourishOrSymbols(text) + "\n\n";
+      finalText += crazyWithFlourishOrSymbols(text) + "\n\n";
+      finalText += crazyWithFlourishOrSymbols(text) + "\n\n";
+      finalText += crazyWithFlourishOrSymbols(text) + "\n\n";
+      finalText += crazyWithFlourishOrSymbols(text) + "\n\n";
+      finalText += crazyWithFlourishOrSymbols(text) + "\n\n";
+      finalText += crazyWithFlourishOrSymbols(text) + "\n\n";
+      finalText += crazyWithFlourishOrSymbols(text) + "\n\n";
+      finalText += cuteText(text) + "\n\n";
+      finalText += cuteText(text) + "\n\n";
+      finalText += cuteText(text) + "\n\n";
+      
+      return finalText.trim();
+    }
+    
+    function crazyWithFlourishOrSymbols(text) {
+      if(Math.random() < 0.7) return wrapInSymbols(crazifyText(text), 2);
+      else return wrapInFlourish(crazifyText(text), 2);
+    }
+    
+    function strikeThrough(text) {
+      return text.split("").join("?")+"?"; 
+    }
+    function tildeStrikeThrough(text) {
+      return text.split("").join("?")+"?";
+    }
+    function underline(text) {
+      return text.split("").join("_")+"_";
+    }
+    function doubleUnderline(text) {
+      return text.split("").join("?")+"?";
+    }
+    function slashThrough(text) {
+      return text.split("").join("?")+"?";
+    }
+    function stinky(text) {
+      return text.split("").join("?")+"?"
+    }
+    function heartsBetween(text) {
+      return text.split("").join("?");
+    }
+    function arrowBelow(text) {
+      return text.split("").join("?")+"?";
+    }
+    function crossAboveBelow(text) {
+      return text.split("").join("??")+"??";
+    }
+    
+      const wingdingsCharMap =
+ {"0":"???","1":"???","2":"???","3":"???","4":"???","5":"???","6":"??","7":"???","8":"???","9":"???","!":"??","\"":"??","#":"??","$":"???","%":"???","&":"???","'":"???","(":"???",")":"??","*":"???","+":"???",",":"???","-":"???",".":"???","/":"???",":":"???",";":"???","<":"???","=":"???",">":"??","?":"??","A":"??","B":"???","C":"???","D":"???","E":"??","F":"??","G":"??","H":"??","I":"??","J":"??","K":"???","L":"??","M":"???","N":"??","O":"??","P":"???","Q":"??","R":"¤?","S":"???","T":"??","U":"???","V":"??","W":"???","X":"??","Y":"??","Z":"??","[":"??","\\":"??","]":"??","^":"??","_":"??","`":"??","a":"??","b":"??","c":"??","d":"??","e":"??","f":"??","g":"??","h":"??","i":"??","j":"??","k":"??","l":"??","m":"??","n":"¦?","o":"??","p":"??","q":"??","r":"??","s":"??","t":"??","u":"??","v":"??","w":"??","x":"??","y":"??","z":"??","{":"??","|":"??","}":"??","~":"??"," ":"??","€":"??"," ":"??","‚":"??","ƒ":"??","„":"??","…":"??","†":"??","‡":"??","ˆ":"??","‰":"??","Š":"??","‹":"??","Œ":"??"," ":"??","Ž":"??"," ":"??"," ":"??","‘":"??","’":"??","“":"??","”":"??","•":"??","–":"??","—":"??","˜":"??","™":"??","š":"??","›":"??","œ":"??"," ":"??","ž":"·?","Ÿ":"•?","¡":"??","¢":"??","£":"??","¤":"??","¥":"??","¦":"??","§":"??","¨":"??","©":"??","ª":"??","«":"??","¬":"??","®":"??","¯":"??","°":"??","±":"??","²":"??","³":"??","´":"??","µ":"??","¶":"??","·":"???","¸":"???","¹":"???","º":"???","»":"???","¼":"???","½":"???","¾":"???","¿":"???","À":"???","Á":"???","Â":"???","Ã":"??","Ä":"??","Å":"??","Æ":"??","Ç":"??","È":"??","É":"??","Ê":"??","Ë":"??","Ì":"??","Í":"??","Î":"??","Ï":"??","Ð":"??","Ñ":"??","Ò":"??","Ó":"??","Ô":"??","Õ":"??","Ö":"??","×":"??","Ø":"??","Ù":"??","Ú":"??","Û":"??","Ü":"??","Ý":"??","Þ":"??","ß":"??","à":"??","á":"??","â":"??","ã":"??","ä":"??","å":"??","æ":"??","ç":"??","è":"??","é":"??","ê":"??","ë":"??","ì":"??","í":"??","î":"??","ï":"??","ð":"??","ñ":"??","ò":"??","ó":"??","ô":"??","õ":"??","ö":"??","÷":"??","ø":"??","ù":"??","ú":"??","û":"??","ü":"??","ý":"??","þ":"??","ÿ":"??"};
+    function wingdings(text) {
+      return text.split("").map(function(a) {return wingdingsCharMap[a] ? wingdingsCharMap[a] : a}).join("");
+    }
+    
+    const vaporwaveCharMap = {" ":" ", "`" : "`","1" : "1","2" : "2","3" : "3","4" : "4","5" : "5","6" : "6","7" : "7","8" : "8","9" : "9","0" : "0","-" : "-","=" : "=","~" : "~","!" : "!","@" : "@","#" : "#","$" : "$","%" : "%","^" : "^","&" : "&","*" : "*","(" : "(",")" : ")","_" : "_","+" : "+","q" : "q","w" : "w","e" : "e","r" : "r","t" : "t","y" : "y","u" : "u","i" : "i","o" : "o","p" : "p","[" : "[","]" : "]","\\" : "\\","Q" : "Q","W" : "W","E" : "E","R" : "R","T" : "T","Y" : "Y","U" : "U","I" : "I","O" : "O","P" : "P","{" : "{","}" : "}","|" : "|","a" : "a","s" : "s","d" : "d","f" : "f","g" : "g","h" : "h","j" : "j","k" : "k","l" : "l",";" : ";","'" : "'","A" : "A","S" : "S","D" : "D","F" : "F","G" : "G","H" : "H","J" : "J","K" : "K","L" : "L",":" : ":","\"" : "\"","z" : "z","x" : "x","c" : "c","v" : "v","b" : "b","n" : "n","m" : "m","," : ",","." : ".","/" : "/","Z" : "Z","X" : "X","C" : "C","V" : "V","B" : "B","N" : "N","M" : "M","<" : "<",">" : ">","?" : "?"};
+    function vaporwaveText(text) {
+      var numSpaces = text.split(" ").length;
+      text = applyCharMap(vaporwaveCharMap, text);
+      var asianChars = getAsianChars(Math.max(3, numSpaces));
+      if(numSpaces > 6) asianChars = asianChars.split("").map(c => c+[""," "][Math.round(Math.random()*0.6)]).join("");
+      var outputs = [];
+      outputs.push( text+" "+asianChars );
+      outputs.push( text.replace(/ /g, "¦").replace(/ae/, "æ").replace(/A/g, "?").replace(/E/g, function() { return Math.random() > 0.5 ? "?" : "S"; }).replace(/O/g, "?")+" ("+asianChars+")" );
+      outputs.push("??"+text+"?");
+      return outputs.join("\n\n");
+    }
+
+
+    function getAsianChars(n) {
+      if(!n) n = 1;
+      var chars = "??????????????? ????????????????????????????????????????????????????? - ?????? ?????????????????????????????????????????????????????????????????????????????????????????????·????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????";
+      var str = "";
+      for(var i = 0; i < n; i++) {
+        str += chars[Math.floor(Math.random()*chars.length)];
+      }
+      return str;
+    }
+    
+    
+    const flourishArray = ["?·.·´¯`·.·? [[text]] ?·.·´¯`·.·?", "? ? _ ? ? ? ¦ [[text]] ¦ ? ? ? _ ? ?", "°°°·.°·..·°¯°·._.· [[text]] ·._.·°¯°·.·° .·°°°", "¸,ø¤º°`°º¤ø,¸¸,ø¤º° [[text]] °º¤ø,¸¸,ø¤º°`°º¤ø,¸", "illilli [[text]] illilli", "•?((¯°·._.• [[text]] •._.·°¯))?•", "¦¦¦¦¦¦¦¦ [[text]] ¦¦¦¦¦¦¦¦", "×º°”˜`”°º× [[text]] ×º°”˜`”°º×", "•]••´º´•» [[text]] «•´º´••[•", "*•.¸? [[text]] ?¸.•*", "??? [[text]] ???", ".•°¤*(¯`?´¯)*¤° [[text]] °¤*(¯´?`¯)*¤°•.", "(¯´•._.• [[text]] •._.•´¯)", "¸„.-•~¹°”ˆ˜¨ [[text]] ¨˜ˆ”°¹~•-.„¸", "¦¦¦¦ [[text]] ¦¦¦¦", "¦¦¦¦?--  [[text]] --?¦¦¦¦", "?? [[text]] ??", "•´¯`•. [[text]] .•´¯`•", "§.•´¨'°÷•..× [[text]] ×,.•´¨'°÷•..§", "•°¯`•• [[text]] ••´¯°•", "(¯`*•.¸,¤°´?.?.:* [[text]] *.:?.?`°¤,¸.•*´¯)", "|!¤*'~``~'*¤!| [[text]] |!¤*'~``~'*¤!|", "•._.••´¯``•.¸¸.•` [[text]] `•.¸¸.•´´¯`••._.•", "¸„.-•~¹°”ˆ˜¨ [[text]] ¨˜ˆ”°¹~•-.„¸", "(¯´•._.• [[text]] •._.•´¯)", "••¤(`×[¤ [[text]] ¤]×´)¤••", "•´¯`•» [[text]] «•´¯`•", " .o0×X×0o. [[text]] .o0×X×0o.", "¤¸¸.•´¯`•¸¸.•..>> [[text]] <<..•.¸¸•´¯`•.¸¸¤", "—(••÷[ [[text]] ]÷••)—", "¸,ø¤º°`°º¤ø,¸ [[text]] ¸,ø¤º°`°º¤ø,¸", "`•.¸¸.•´´¯`••._.• [[text]] •._.••`¯´´•.¸¸.•`", ",-*' ^ '~*-.,_,.-*~ [[text]] ~*-.,_,.-*~' ^ '*-,", "`•.,¸¸,.•´¯ [[text]] ¯`•.,¸¸,.•´", "????? [[text]] ?????", "????? [[text]] ?????", "????? [[text]] ?????", "·.¸¸.·??? [[text]] ???·.¸¸.·", "??_?? [[text]] ??_??", "]|I{•------» [[text]] «------•}I|[", "¯_¯_¯_ [[text]] _¯_¯_¯", "(-_-) [[text]] (-_-)", "•´¯`•. [[text]] .•´¯`•", "-?~*'¨¯¨'*·?~ [[text]] ~?*'¨¯¨'*·~?-", "???,¸¸,ø¤º°`°?? [[text]] ?? ,¸¸,ø¤º°`°???", ".•°¤*(¯`?´¯)*¤° [[text]] °¤*(¯´?`¯)*¤°•.", "••.•´¯`•.•• [[text]] ••.•´¯`•.••", "¤¸¸.•´¯`•¸¸.•..>> [[text]] <<..•.¸¸•´¯`•.¸¸¤", "?•??? [[text]] ???•?", "+»?«+ [[text]] +»?«+", "-·=»‡«=·- [[text]] -·=»‡«=·-", "···??????????????????? [[text]] ???????????????????···", "¸¸?·¯·?¸¸?·¯·?¸¸ [[text]] ¸¸?·¯·?¸¸?·¯·?¸¸", "????? [[text]] ?????", "¤ (¯´??.¸_)¤ [[text]] ¤(_¸.??´¯) ¤", "(¯`·.¸¸.·´¯`·.¸¸.-> [[text]] <-.¸¸.·´¯`·.¸¸.·´¯)", "?.?.:* ?:**:. [[text]] .:**:.?*.:?.?", ".•?•?• [[text]] •?•?•.", "?(¯`???´¯) ? ? ? [[text]] ? ? ? (¯`???´¯)?", "«-(¯`v´¯)-« [[text]] »-(¯`v´¯)-»"];
+    function wrapInFlourish(text) {
+      return flourishArray[Math.floor(Math.random()*flourishArray.length)].replace("[[text]]", text);
+    }
+    
+    function wrapInSymbols(text, number) {
+      return randomSymbols(number) +"  "+ text +"  "+ randomSymbols(number)
+    }
+
+
+
+
+
+
+    function firework(text) {
+      return text.split("").join("?")+ "?";
+    }
+
+
+
+
+
+
+
+
+    function weirdBox(text) {
+      return text.replace(/([^\s])/g,"[¯_$1]");
+    }
+
+
+
+
+
+
+
+
+    function littleSparkles(text) {
+      return "˜”*°•.˜”*°• "+text+" •°*”˜.•°*”˜";
+    }
+
+
+
+
+
+
+
+
+    function kirbyHug(text) {
+      return "(????)? ? " + text + " ?"
+    }
+
+
+
+
+
+
+
+
+    function dottyJoiner(text) {
+      return "¦" + text.split("").join("¦") + "¦";
+    }
+
+
+
+
+
+
+
+
+    function wavyJoiner(text) {
+      return "?" + text.split("").join("?") + "?";
+    }
+
+
+
+
+
+
+
+
+    function diametricAngleFrame(text) {
+      return text.replace(/([^\s])/g,"?$1?");
+    }
+
+
+
+
+
+
+
+
+    function thickBlockFramed(text) {
+      return text.replace(/([^\s])/g,"?$1?");
+    }
+    
+    function applyCharMap(map, text) {
+      let out = "";
+       for(let c of text.split("")) {
+         if(map[c] !== undefined) out += map[c];
+         else if(map[c.toLowerCase()] !== undefined) out += map[c.toLowerCase()];
+         else out += c;
+       }
+      return out;
+    }
+     
+    
+    /* eslint-disable */
+    const futureAlienCharMap = {"0":"0","1":"1","2":"2","3":"3","4":"4","5":"5","6":"6","7":"7","8":"8","9":"9","a":"?","b":"?","c":"?","d":"?","e":"?","f":"?","g":"?","h":"?","i":"?","j":"?","k":"??","l":"?","m":"?","n":"?","o":"?","p":"?","q":"?","r":"?","s":"S","t":"?","u":"?","v":"?","w":"?","x":"?","y":"?","z":"?","A":"?","B":"?","C":"?","D":"?","E":"?","F":"?","G":"?","H":"?","I":"?","J":"?","K":"??","L":"?","M":"?","N":"?","O":"?","P":"?","Q":"?","R":"?","S":"S","T":"?","U":"?","V":"?","W":"?","X":"?","Y":"?","Z":"?"};
+    const squiggle6CharMap = {"0":"0","1":"1","2":"2","3":"3","4":"4","5":"5","6":"6","7":"7","8":"8","9":"9","a":"?","b":"?","c":"¢","d":"?","e":"e","f":"f","g":"?","h":"h","i":"i","j":"?","k":"k","l":"l","m":"?","n":"?","o":"?","p":"p","q":"?","r":"r","s":"S","t":"t","u":"?","v":"?","w":"?","x":"x","y":"?","z":"?","A":"?","B":"?","C":"¢","D":"?","E":"e","F":"f","G":"?","H":"h","I":"i","J":"?","K":"k","L":"l","M":"?","N":"?","O":"?","P":"p","Q":"?","R":"r","S":"S","T":"t","U":"?","V":"?","W":"?","X":"x","Y":"?","Z":"?"};
+    const squiggle5CharMap = {"0":"0","1":"1","2":"2","3":"3","4":"4","5":"5","6":"6","7":"7","8":"8","9":"9","a":"a","b":"?","c":"?","d":"?","e":"?","f":"?","g":"?","h":"?","i":"i","j":"?","k":"?","l":"?","m":"?","n":"?","o":"o","p":"P","q":"?","r":"?","s":"?","t":"?","u":"u","v":"?","w":"?","x":"?","y":"?","z":"?","A":"a","B":"?","C":"?","D":"?","E":"?","F":"?","G":"?","H":"?","I":"i","J":"?","K":"?","L":"?","M":"?","N":"?","O":"o","P":"P","Q":"?","R":"?","S":"?","T":"?","U":"u","V":"?","W":"?","X":"?","Y":"?","Z":"?"};
+    const asianStyle2CharMap = {"0":"0","1":"1","2":"2","3":"3","4":"4","5":"5","6":"6","7":"7","8":"8","9":"9","a":"?","b":"?","c":"?","d":"?","e":"?","f":"?","g":"?","h":"?","i":"?","j":"?","k":"?","l":"?","m":"?","n":"?","o":"?","p":"?","q":"?","r":"?","s":"?","t":"?","u":"?","v":"v","w":"W","x":"?","y":"?","z":"?","A":"?","B":"?","C":"?","D":"?","E":"?","F":"?","G":"?","H":"?","I":"?","J":"?","K":"?","L":"?","M":"?","N":"?","O":"?","P":"?","Q":"?","R":"?","S":"?","T":"?","U":"?","V":"v","W":"W","X":"?","Y":"?","Z":"?"};
+    const asianStyleCharMap = {"0":"0","1":"1","2":"2","3":"3","4":"4","5":"5","6":"6","7":"7","8":"8","9":"9","a":"?","b":"?","c":"?","d":"?","e":"?","f":"?","g":"?","h":"?","i":"?","j":"?","k":"?","l":"?","m":"?","n":"?","o":"?","p":"?","q":"?","r":"?","s":"?","t":"?","u":"?","v":"?","w":"?","x":"?","y":"?","z":"?","A":"?","B":"?","C":"?","D":"?","E":"?","F":"?","G":"?","H":"?","I":"?","J":"?","K":"?","L":"?","M":"?","N":"?","O":"?","P":"?","Q":"?","R":"?","S":"?","T":"?","U":"?","V":"?","W":"?","X":"?","Y":"?","Z":"?"};
+    const squaresCharMap = {"0":"0","1":"1","2":"2","3":"3","4":"4","5":"5","6":"6","7":"7","8":"8","9":"9","a":"??","b":"??","c":"??","d":"??","e":"??","f":"??","g":"??","h":"??","i":"??","j":"??","k":"??","l":"??","m":"??","n":"??","o":"??","p":"??","q":"??","r":"??","s":"??","t":"??","u":"??","v":"??","w":"??","x":"??","y":"??","z":"??","A":"??","B":"??","C":"??","D":"??","E":"??","F":"??","G":"??","H":"??","I":"??","J":"??","K":"??","L":"??","M":"??","N":"??","O":"??","P":"??","Q":"??","R":"??","S":"??","T":"??","U":"??","V":"??","W":"??","X":"??","Y":"??","Z":"??"};
+    const squiggle4CharMap = {"0":"0","1":"1","2":"2","3":"3","4":"4","5":"5","6":"6","7":"7","8":"8","9":"9","a":"?","b":"?","c":"?","d":"?","e":"?","f":"?","g":"?","h":"?","i":"?","j":"?","k":"?","l":"?","m":"?","n":"?","o":"?","p":"?","q":"?","r":"?","s":"?","t":"?","u":"?","v":"?","w":"?","x":"?","y":"?","z":"?","A":"?","B":"?","C":"?","D":"?","E":"?","F":"?","G":"?","H":"?","I":"?","J":"?","K":"?","L":"?","M":"?","N":"?","O":"?","P":"?","Q":"?","R":"?","S":"?","T":"?","U":"?","V":"?","W":"?","X":"?","Y":"?","Z":"?"};
+    const neonCharMap = {"0":"0","1":"1","2":"2","3":"3","4":"4","5":"5","6":"6","7":"7","8":"8","9":"9","a":"?","b":"?","c":"?","d":"?","e":"E","f":"?","g":"G","h":"?","i":"I","j":"?","k":"K","l":"?","m":"?","n":"?","o":"O","p":"?","q":"?","r":"?","s":"?","t":"T","u":"?","v":"?","w":"?","x":"?","y":"Y","z":"?","A":"?","B":"?","C":"?","D":"?","E":"E","F":"?","G":"G","H":"?","I":"I","J":"?","K":"K","L":"?","M":"?","N":"?","O":"O","P":"?","Q":"?","R":"?","S":"?","T":"T","U":"?","V":"?","W":"?","X":"?","Y":"Y","Z":"?"};
+    const squiggle3CharMap = {"0":"0","1":"1","2":"2","3":"3","4":"4","5":"5","6":"6","7":"7","8":"8","9":"9","a":"a","b":"?","c":"?","d":"?","e":"?","f":"?","g":"?","h":"?","i":"?","j":"?","k":"?","l":"?","m":"?","n":"?","o":"?","p":"?","q":"?","r":"?","s":"?","t":"?","u":"?","v":"?","w":"?","x":"?","y":"?","z":"?","A":"a","B":"?","C":"?","D":"?","E":"?","F":"?","G":"?","H":"?","I":"?","J":"?","K":"?","L":"?","M":"?","N":"?","O":"?","P":"?","Q":"?","R":"?","S":"?","T":"?","U":"?","V":"?","W":"?","X":"?","Y":"?","Z":"?"};
+    const monospaceCharMap = {"0":"??","1":"??","2":"??","3":"??","4":"??","5":"??","6":"??","7":"??","8":"??","9":"??","a":"??","b":"??","c":"??","d":"??","e":"??","f":"??","g":"??","h":"??","i":"??","j":"??","k":"??","l":"??","m":"??","n":"??","o":"??","p":"??","q":"??","r":"??","s":"??","t":"??","u":"??","v":"??","w":"??","x":"??","y":"??","z":"??","A":"??","B":"??","C":"??","D":"??","E":"??","F":"??","G":"??","H":"??","I":"??","J":"??","K":"??","L":"??","M":"??","N":"??","O":"??","P":"??","Q":"??","R":"??","S":"??","T":"??","U":"??","V":"??","W":"??","X":"??","Y":"??","Z":"??"};
+    const boldItalicCharMap = {"0":"0","1":"1","2":"2","3":"3","4":"4","5":"5","6":"6","7":"7","8":"8","9":"9","a":"??","b":"??","c":"??","d":"??","e":"??","f":"??","g":"??","h":"??","i":"??","j":"??","k":"??","l":"??","m":"??","n":"??","o":"??","p":"??","q":"??","r":"??","s":"??","t":"??","u":"??","v":"??","w":"??","x":"??","y":"??","z":"??","A":"??","B":"??","C":"??","D":"??","E":"??","F":"??","G":"??","H":"??","I":"??","J":"??","K":"??","L":"??","M":"??","N":"??","O":"??","P":"??","Q":"??","R":"??","S":"??","T":"??","U":"??","V":"??","W":"??","X":"??","Y":"??","Z":"??"};
+    const boldCharMap = {"0":"??","1":"??","2":"??","3":"??","4":"??","5":"??","6":"??","7":"??","8":"??","9":"??","a":"??","b":"??","c":"??","d":"??","e":"??","f":"??","g":"??","h":"??","i":"??","j":"??","k":"??","l":"??","m":"??","n":"??","o":"??","p":"??","q":"??","r":"??","s":"??","t":"??","u":"??","v":"??","w":"??","x":"??","y":"??","z":"??","A":"??","B":"??","C":"??","D":"??","E":"??","F":"??","G":"??","H":"??","I":"??","J":"??","K":"??","L":"??","M":"??","N":"??","O":"??","P":"??","Q":"??","R":"??","S":"??","T":"??","U":"??","V":"??","W":"??","X":"??","Y":"??","Z":"??"};
+const boldSansCharMap = {"0":"??","1":"??","2":"??","3":"??","4":"??","5":"??","6":"??","7":"??","8":"??","9":"??","a":"??","b":"??","c":"??","d":"??","e":"??","f":"??","g":"??","h":"??","i":"??","j":"??","k":"??","l":"??","m":"??","n":"??","o":"??","p":"??","q":"??","r":"??","s":"??","t":"??","u":"??","v":"??","w":"??","x":"??","y":"??","z":"??","A":"??","B":"??","C":"??","D":"??","E":"??","F":"??","G":"??","H":"??","I":"??","J":"??","K":"??","L":"??","M":"??","N":"??","O":"??","P":"??","Q":"??","R":"??","S":"??","T":"??","U":"??","V":"??","W":"??","X":"??","Y":"??","Z":"??"};
+    const italicCharMap = {"0":"0","1":"1","2":"2","3":"3","4":"4","5":"5","6":"6","7":"7","8":"8","9":"9","a":"??","b":"??","c":"??","d":"??","e":"??","f":"??","g":"??","h":"??","i":"??","j":"??","k":"??","l":"??","m":"??","n":"??","o":"??","p":"??","q":"??","r":"??","s":"??","t":"??","u":"??","v":"??","w":"??","x":"??","y":"??","z":"??","A":"??","B":"??","C":"??","D":"??","E":"??","F":"??","G":"??","H":"??","I":"??","J":"??","K":"??","L":"??","M":"??","N":"??","O":"??","P":"??","Q":"??","R":"??","S":"??","T":"??","U":"??","V":"??","W":"??","X":"??","Y":"??","Z":"??"};
+    const squiggle2CharMap = {"0":"0","1":"1","2":"2","3":"3","4":"4","5":"5","6":"6","7":"7","8":"8","9":"9","a":"a","b":"?","c":"?","d":"?","e":"?","f":"?","g":"?","h":"?","i":"?","j":"?","k":"?","l":"?","m":"?","n":"?","o":"s","p":"?","q":"?","r":"?","s":"?","t":"l","u":"?","v":"?","w":"?","x":"x","y":"?","z":"?","A":"A","B":"B","C":"C","D":"D","E":"E","F":"F","G":"G","H":"H","I":"I","J":"J","K":"K","L":"L","M":"M","N":"N","O":"O","P":"P","Q":"Q","R":"R","S":"S","T":"T","U":"U","V":"V","W":"W","X":"X","Y":"Y","Z":"Z"};
+    const currencyCharMap = {"0":"0","1":"1","2":"2","3":"3","4":"4","5":"5","6":"6","7":"7","8":"8","9":"9","a":"?","b":"?","c":"?","d":"Ð","e":"?","f":"?","g":"?","h":"?","i":"l","j":"J","k":"?","l":"?","m":"?","n":"?","o":"Ø","p":"?","q":"Q","r":"?","s":"?","t":"?","u":"?","v":"V","w":"?","x":"?","y":"?","z":"?","A":"?","B":"?","C":"?","D":"Ð","E":"?","F":"?","G":"?","H":"?","I":"l","J":"J","K":"?","L":"?","M":"?","N":"?","O":"Ø","P":"?","Q":"Q","R":"?","S":"?","T":"?","U":"?","V":"V","W":"?","X":"?","Y":"?","Z":"?"};
+    const symbolsCharMap = {"0":"0","1":"1","2":"2","3":"3","4":"4","5":"5","6":"6","7":"7","8":"8","9":"9","a":"å","b":"ß","c":"¢","d":"Ð","e":"ê","f":"£","g":"g","h":"h","i":"ï","j":"j","k":"k","l":"l","m":"m","n":"ñ","o":"ð","p":"þ","q":"q","r":"r","s":"§","t":"†","u":"µ","v":"v","w":"w","x":"x","y":"¥","z":"z","A":"Ä","B":"ß","C":"Ç","D":"Ð","E":"È","F":"£","G":"G","H":"H","I":"Ì","J":"J","K":"K","L":"L","M":"M","N":"ñ","O":"Ö","P":"þ","Q":"Q","R":"R","S":"§","T":"†","U":"Ú","V":"V","W":"W","X":"×","Y":"¥","Z":"Z"};
+    const greekCharMap = {"0":"0","1":"1","2":"2","3":"3","4":"4","5":"5","6":"6","7":"7","8":"8","9":"9","a":"a","b":"?","c":"¢","d":"?","e":"?","f":"ƒ","g":"g","h":"?","i":"?","j":"?","k":"?","l":"l","m":"?","n":"?","o":"s","p":"?","q":"q","r":"?","s":"?","t":"?","u":"?","v":"?","w":"?","x":"?","y":"?","z":"z","A":"a","B":"?","C":"¢","D":"?","E":"?","F":"ƒ","G":"g","H":"?","I":"?","J":"?","K":"?","L":"l","M":"?","N":"?","O":"s","P":"?","Q":"q","R":"?","S":"?","T":"?","U":"?","V":"?","W":"?","X":"?","Y":"?","Z":"z"};
+    const bentTextCharMap = {"0":"?","1":"??","2":"?","3":"?","4":"?","5":"?","6":"?","7":"7","8":"??","9":"?","a":"a","b":"?","c":"ç","d":"?","e":"?","f":"ƒ","g":"?","h":"?","i":"ì","j":"?","k":"?","l":"?","m":"?","n":"?","o":"?","p":"?","q":"?","r":"?","s":"?","t":"?","u":"?","v":"?","w":"?","x":"×","y":"?","z":"?","A":"?","B":"ß","C":"?","D":"?","E":"?","F":"ƒ","G":"?","H":"?","I":"i","J":"?","K":"?","L":"?","M":"?","N":"?","O":"?","P":"f","Q":"?","R":"?","S":"?","T":"?","U":"?","V":"?","W":"?","X":"?","Y":"?","Z":"?"};
+    const upperAnglesCharMap = {"0":"0","1":"1","2":"2","3":"3","4":"4","5":"5","6":"6","7":"7","8":"8","9":"9","a":"?","b":"B","c":"?","d":"D","e":"S","f":"F","g":"G","h":"?","i":"I","j":"J","k":"K","l":"?","m":"M","n":"?","o":"?","p":"P","q":"Q","r":"?","s":"?","t":"?","u":"?","v":"V","w":"?","x":"X","y":"Y","z":"Z","A":"?","B":"B","C":"?","D":"D","E":"S","F":"F","G":"G","H":"?","I":"I","J":"J","K":"K","L":"?","M":"M","N":"?","O":"?","P":"P","Q":"Q","R":"?","S":"?","T":"?","U":"?","V":"V","W":"?","X":"X","Y":"Y","Z":"Z"};
+    const subscriptCharMap = {"0":"0","1":"1","2":"2","3":"3","4":"4","5":"5","6":"6","7":"7","8":"8","9":"9","a":"?","b":"b","c":"c","d":"d","e":"?","f":"f","g":"g","h":"?","i":"?","j":"?","k":"?","l":"?","m":"?","n":"?","o":"?","p":"?","q":"q","r":"?","s":"?","t":"?","u":"?","v":"?","w":"w","x":"?","y":"y","z":"z","A":"?","B":"B","C":"C","D":"D","E":"?","F":"F","G":"G","H":"?","I":"?","J":"?","K":"?","L":"?","M":"?","N":"?","O":"?","P":"?","Q":"Q","R":"?","S":"?","T":"?","U":"?","V":"?","W":"W","X":"?","Y":"Y","Z":"Z","+":"?","-":"?","=":"?","(":"?",")":"?"};
+    const superscriptCharMap = {"0":"°","1":"¹","2":"²","3":"³","4":"4","5":"5","6":"6","7":"7","8":"8","9":"?","a":"?","b":"?","c":"?","d":"?","e":"?","f":"?","g":"?","h":"?","i":"?","j":"?","k":"?","l":"?","m":"?","n":"n","o":"?","p":"?","q":"q","r":"?","s":"?","t":"?","u":"?","v":"?","w":"?","x":"?","y":"?","z":"?","A":"?","B":"?","C":"?","D":"?","E":"?","F":"?","G":"?","H":"?","I":"?","J":"?","K":"?","L":"?","M":"?","N":"?","O":"?","P":"?","Q":"Q","R":"?","S":"?","T":"?","U":"?","V":"?","W":"?","X":"?","Y":"?","Z":"?","+":"?","-":"?","=":"?","(":"?",")":"?"};
+    const squiggleCharMap = {"0":"0","1":"1","2":"2","3":"3","4":"4","5":"5","6":"6","7":"7","8":"8","9":"9","a":"?","b":"?","c":"?","d":"?","e":"?","f":"T","g":"?","h":"?","i":"?","j":"?","k":"?","l":"?","m":"?","n":"?","o":"?","p":"?","q":"?","r":"?","s":"?","t":"?","u":"?","v":"?","w":"?","x":"?","y":"?","z":"?","A":"?","B":"?","C":"?","D":"?","E":"?","F":"T","G":"?","H":"?","I":"?","J":"?","K":"?","L":"?","M":"?","N":"?","O":"?","P":"?","Q":"?","R":"?","S":"?","T":"?","U":"?","V":"?","W":"?","X":"?","Y":"?","Z":"?"};
+    const doubleStruckCharMap = {"0":"??","1":"??","2":"??","3":"??","4":"??","5":"??","6":"??","7":"??","8":"??","9":"??","a":"??","b":"??","c":"??","d":"??","e":"??","f":"??","g":"??","h":"??","i":"??","j":"??","k":"??","l":"??","m":"??","n":"??","o":"??","p":"??","q":"??","r":"??","s":"??","t":"??","u":"??","v":"??","w":"??","x":"??","y":"??","z":"??","A":"??","B":"??","C":"C","D":"??","E":"??","F":"??","G":"??","H":"H","I":"??","J":"??","K":"??","L":"??","M":"??","N":"N","O":"??","P":"P","Q":"Q","R":"R","S":"??","T":"??","U":"??","V":"??","W":"??","X":"??","Y":"??","Z":"Z"};
+    const medievalCharMap = {"0":"0","1":"1","2":"2","3":"3","4":"4","5":"5","6":"6","7":"7","8":"8","9":"9","a":"??","b":"??","c":"??","d":"??","e":"??","f":"??","g":"??","h":"??","i":"??","j":"??","k":"??","l":"??","m":"??","n":"??","o":"??","p":"??","q":"??","r":"??","s":"??","t":"??","u":"??","v":"??","w":"??","x":"??","y":"??","z":"??","A":"??","B":"??","C":"??","D":"??","E":"??","F":"??","G":"??","H":"??","I":"??","J":"??","K":"??","L":"??","M":"??","N":"??","O":"??","P":"??","Q":"??","R":"??","S":"??","T":"??","U":"??","V":"??","W":"??","X":"??","Y":"??","Z":"??"};
+    const invertedSquaresCharMap = {q:"??",w:"??",e:"??",r:"??",t:"??",y:"??",u:"??",i:"??",o:"??",p:"??",a:"??",s:"??",d:"??",f:"??",g:"??",h:"??",j:"??",k:"??",l:"??",z:"??",x:"??",c:"??",v:"??",b:"??",n:"??",m:"??"} 
+    const cursiveCharMap = {"0":"0","1":"1","2":"2","3":"3","4":"4","5":"5","6":"6","7":"7","8":"8","9":"9","a":"??","b":"??","c":"??","d":"??","e":"??","f":"??","g":"??","h":"??","i":"??","j":"??","k":"??","l":"??","m":"??","n":"??","o":"??","p":"??","q":"??","r":"??","s":"??","t":"??","u":"??","v":"??","w":"??","x":"??","y":"??","z":"??","A":"??","B":"??","C":"??","D":"??","E":"??","F":"??","G":"??","H":"??","I":"??","J":"??","K":"??","L":"??","M":"??","N":"??","O":"??","P":"??","Q":"??","R":"??","S":"??","T":"??","U":"??","V":"??","W":"??","X":"??","Y":"??","Z":"??"};
+    const oldEnglishCharMap = {"a":"??","b":"??","c":"??","d":"??","e":"??","f":"??","g":"??","h":"??","i":"??","j":"??","k":"??","l":"??","m":"??","n":"??","o":"??","p":"??","q":"??","r":"??","s":"??","t":"??","u":"??","v":"??","w":"??","x":"??","y":"??","z":"??","A":"??","B":"??","C":"C","D":"??","E":"??","F":"??","G":"??","H":"H","I":"I","J":"??","K":"??","L":"??","M":"??","N":"??","O":"??","P":"??","Q":"??","R":"R","S":"??","T":"??","U":"??","V":"??","W":"??","X":"??","Y":"??","Z":"Z"};
+    const wideTextCharMap = {"`" : "`","1" : "1","2" : "2","3" : "3","4" : "4","5" : "5","6" : "6","7" : "7","8" : "8","9" : "9","0" : "0","-" : "-","=" : "=","~" : "~","!" : "!","@" : "@","#" : "#","$" : "$","%" : "%","^" : "^","&" : "&","*" : "*","(" : "(",")" : ")","_" : "_","+" : "+","q" : "q","w" : "w","e" : "e","r" : "r","t" : "t","y" : "y","u" : "u","i" : "i","o" : "o","p" : "p","[" : "[","]" : "]","\\" : "\\","Q" : "Q","W" : "W","E" : "E","R" : "R","T" : "T","Y" : "Y","U" : "U","I" : "I","O" : "O","P" : "P","{" : "{","}" : "}","|" : "|","a" : "a","s" : "s","d" : "d","f" : "f","g" : "g","h" : "h","j" : "j","k" : "k","l" : "l",";" : ";","'" : "'","A" : "A","S" : "S","D" : "D","F" : "F","G" : "G","H" : "H","J" : "J","K" : "K","L" : "L",":" : ":","\"" : "\"","z" : "z","x" : "x","c" : "c","v" : "v","b" : "b","n" : "n","m" : "m","," : ",","." : ".","/" : "/","Z" : "Z","X" : "X","C" : "C","V" : "V","B" : "B","N" : "N","M" : "M","<" : "<",">" : ">","?" : "?"}
+
+
+    
+    function Lunicode(){this.tools={flip:{init:function(){for(i in this.map)this.map[this.map[i]]=i},encode:function(i){for(var r,t=[],o=0,h=i.length;h>o;o++)r=i.charAt(o),o>0&&("?"==r||"?"==r||"?"==r||"?"==r)?(r=this.map[i.charAt(o-1)+r],t.pop()):(r=this.map[r],"undefined"==typeof r&&(r=i.charAt(o))),t.push(r);return t.reverse().join("")},decode:function(i){for(var r,t=[],o=0,h=i.length;h>o;o++)r=i.charAt(o),o>0&&("?"==r||"?"==r||"?"==r||"?"==r)?(r=this.map[i.charAt(o-1)+r],t.pop()):(r=this.map[r],"undefined"==typeof r&&(r=i.charAt(o))),t.push(r);return t.reverse().join("")},map:{a:"?",b:"q",c:"?",d:"p",e:"?",f:"?",g:"?",h:"?",i:"i",j:"?",k:"?",l:"l",m:"?",n:"u",r:"?",t:"?",v:"?",w:"?",y:"?",A:"?",B:"?",C:"?",D:"?",E:"?",F:"?",G:"?",J:"?",K:"?",L:"?",M:"W",P:"?",Q:"?",R:"?",T:"?",U:"n",V:"?",Y:"?",1:"?",2:"?",3:"?",4:"?",5:"?",6:"9",7:"?","&":"?",".":"?",'"':"„",";":"?","[":"]","(":")","{":"}","?":"¿","!":"¡","'":",","<":">","?":"_","¯":"_","?":"?","?":"?","?":"?","\r":"\n","ß":"?","¨":"?","ä":"??","ö":"o?","ü":"n?","Ä":"??","Ö":"O?","Ü":"n?","´":" ?","é":"??","á":"??","ó":"o?","ú":"n?","É":"??","Á":"??","Ó":"O?","Ú":"n?","`":" ?","è":"??","à":"??","ò":"o?","ù":"n?","È":"??","À":"??","Ò":"O?","Ù":"n?","^":" ?","ê":"??","â":"??","ô":"o?","û":"n?","Ê":"??","Â":"??","Ô":"O?","Û":"n?"}},mirror:{init:function(){for(i in this.map)this.map[this.map[i]]=i},encode:function(i){for(var r,t=[],o=[],h=0,n=i.length;n>h;h++)r=i.charAt(h),h>0&&("¨"==r||"`"==r||"´"==r||"^"==r)?(r=this.map[i.charAt(h-1)+r],t.pop()):(r=this.map[r],"undefined"==typeof r&&(r=i.charAt(h))),"\n"==r?(o.push(t.reverse().join("")),t=[]):t.push(r);return o.push(t.reverse().join("")),o.join("\n")},decode:function(i){for(var r,t=[],o=[],h=0,n=i.length;n>h;h++)r=i.charAt(h),h>0&&("¨"==r||"`"==r||"´"==r||"^"==r)?(r=this.map[i.charAt(h-1)+r],t.pop()):(r=this.map[r],"undefined"==typeof r&&(r=i.charAt(h))),"\n"==r?(o.push(t.reverse().join("")),t=[]):t.push(r);return o.push(t.reverse().join("")),o.join("\n")},map:{a:"?",b:"d",c:"?",e:"?",f:"?",g:"o",h:"?",j:"?",k:"?",l:"|",n:"?",p:"q",r:"?",s:"?",t:"l",y:"?",z:"?",B:"?",C:"?",D:"?",E:"?",F:"?",G:"?",J:"?",K:"?",L:"?",N:"?",P:"?",Q:"?",R:"?",S:"?",Z:"?",1:"",2:"",3:"",4:"",5:"",6:"",7:"","&":"",";":"","[":"]","(":")","{":"}","?":"?","<":">","ä":"?¨","ß":"?","´":"`","é":"?`","á":"?`","ó":"ò","ú":"ù","É":"?`","Á":"À","Ó":"Ò","Ú":"Ù","`":"´","è":"?´","à":"?´","È":"?´","ê":"?^","â":"?^","Ê":"?^","Ø":"?","ø":"?"}},creepify:{init:function(){for(var i=768;789>=i;i++)this.diacriticsTop.push(String.fromCharCode(i));for(var i=790;819>=i;i++)794!=i&&795!=i&&this.diacriticsBottom.push(String.fromCharCode(i));this.diacriticsTop.push(String.fromCharCode(794)),this.diacriticsTop.push(String.fromCharCode(795));for(var i=820;824>=i;i++)this.diacriticsMiddle.push(String.fromCharCode(i));for(var i=825;828>=i;i++)this.diacriticsBottom.push(String.fromCharCode(i));for(var i=829;836>=i;i++)this.diacriticsTop.push(String.fromCharCode(i));this.diacriticsTop.push(String.fromCharCode(836)),this.diacriticsBottom.push(String.fromCharCode(837)),this.diacriticsTop.push(String.fromCharCode(838)),this.diacriticsBottom.push(String.fromCharCode(839)),this.diacriticsBottom.push(String.fromCharCode(840)),this.diacriticsBottom.push(String.fromCharCode(841)),this.diacriticsTop.push(String.fromCharCode(842)),this.diacriticsTop.push(String.fromCharCode(843)),this.diacriticsTop.push(String.fromCharCode(844)),this.diacriticsBottom.push(String.fromCharCode(845)),this.diacriticsBottom.push(String.fromCharCode(846)),this.diacriticsTop.push(String.fromCharCode(848)),this.diacriticsTop.push(String.fromCharCode(849)),this.diacriticsTop.push(String.fromCharCode(850)),this.diacriticsBottom.push(String.fromCharCode(851)),this.diacriticsBottom.push(String.fromCharCode(852)),this.diacriticsBottom.push(String.fromCharCode(853)),this.diacriticsBottom.push(String.fromCharCode(854)),this.diacriticsTop.push(String.fromCharCode(855)),this.diacriticsTop.push(String.fromCharCode(856)),this.diacriticsBottom.push(String.fromCharCode(857)),this.diacriticsBottom.push(String.fromCharCode(858)),this.diacriticsTop.push(String.fromCharCode(859)),this.diacriticsBottom.push(String.fromCharCode(860)),this.diacriticsTop.push(String.fromCharCode(861)),this.diacriticsTop.push(String.fromCharCode(861)),this.diacriticsBottom.push(String.fromCharCode(863)),this.diacriticsTop.push(String.fromCharCode(864)),this.diacriticsTop.push(String.fromCharCode(865))},encode:function(r){var t,o="";for(i in r){if(t=r[i],this.options.middle&&(t+=this.diacriticsMiddle[Math.floor(Math.random()*this.diacriticsMiddle.length)]),this.options.top)for(var h=this.diacriticsTop.length-1,n=0,a=this.options.maxHeight-Math.random()*(this.options.randomization/100*this.options.maxHeight);a>n;n++)t+=this.diacriticsTop[Math.floor(Math.random()*h)];if(this.options.bottom)for(var s=this.diacriticsBottom.length-1,n=0,a=this.options.maxHeight-Math.random()*(this.options.randomization/100*this.options.maxHeight);a>n;n++)t+=this.diacriticsBottom[Math.floor(Math.random()*s)];o+=t}return o},decode:function(r){var t,o="";for(i in r)t=r[i].charCodeAt(0),(768>t||t>865)&&(o+=r[i]);return o},diacriticsTop:[],diacriticsMiddle:[],diacriticsBottom:[],options:{top:!0,middle:!0,bottom:!0,maxHeight:15,randomization:100}},bubbles:{init:function(){for(var i=49;57>=i;i++)this.map[String.fromCharCode(i)]=String.fromCharCode(i+9263);this.map[0]="?";for(var i=65;90>=i;i++)this.map[String.fromCharCode(i)]=String.fromCharCode(i+9333);for(var i=97;122>=i;i++)this.map[String.fromCharCode(i)]=String.fromCharCode(i+9327);for(i in this.map)this.mapInverse[this.map[i]]=i},encode:function(r){var t,o="",h=!0;for(i in r)t=this.map[r[i]],"undefined"==typeof t&&(r[i].charCodeAt(0)>=33?(t=r[i]+String.fromCharCode(8413),h||(t=String.fromCharCode(8239)+String.fromCharCode(160)+String.fromCharCode(160)+String.fromCharCode(8239)+t)):t=r[i]),o+=t,h="\n"==t;return o},decode:function(r){var t,o="",h="";for(i in r)t=this.mapInverse[r[i]],o+="undefined"==typeof t?r[i]:t;for(i in o)t=o[i].charCodeAt(0),160!=t&&8239!=t&&8413!=t&&(h+=o[i]);return h},map:{},mapInverse:{}},squares:{init:function(){},encode:function(r){var t,o="",h=!0;for(i in r)r[i].charCodeAt(0)>=33?(t=r[i]+String.fromCharCode(8414),h||(t=String.fromCharCode(8239)+String.fromCharCode(160)+String.fromCharCode(160)+String.fromCharCode(8239)+t)):t=r[i],o+=t,h="\n"==t;return o},decode:function(r){var t,o="";for(i in r)t=r[i].charCodeAt(0),160!=t&&8239!=t&&8414!=t&&(o+=r[i]);return o}},roundsquares:{init:function(){},encode:function(r){var t,o="",h=!0;for(i in r)r[i].charCodeAt(0)>=33?(t=r[i]+String.fromCharCode(8419),h||(t=String.fromCharCode(160)+String.fromCharCode(160)+String.fromCharCode(160)+t)):t=r[i],o+=t,h="\n"==t;return o},decode:function(r){var t,o="";for(i in r)t=r[i].charCodeAt(0),160!=t&&8239!=t&&8419!=t&&(o+=r[i]);return o}},bent:{init:function(){for(i in this.map)this.map[this.map[i]]=i},encode:function(i){for(var r,t="",o=0,h=i.length;h>o;o++)r=this.map[i.charAt(o)],"undefined"==typeof r&&(r=i.charAt(o)),t+=r;return t},decode:function(i){for(var r,t="",o=0,h=i.length;h>o;o++)r=this.map[i.charAt(o)],"undefined"==typeof r&&(r=i.charAt(o)),t+=r;return t},map:{a:"a",b:"?",c:"ç",d:"?",e:"?",f:"ƒ",g:"?",h:"?",i:"ì",j:"?",k:"?",l:"?",m:"?",n:"?",o:"?",p:"?",q:"?",r:"?",s:"?",t:"?",u:"?",v:"?",w:"?",x:"×",y:"?",z:"?",A:"?",B:"ß",C:"?",D:"?",E:"?",F:"ƒ",G:"?",H:"?",I:"i",J:"?",K:"?",L:"?",M:"?",N:"?",O:"?",P:"f",Q:"?",R:"?",S:"?",T:"?",U:"?",V:"?",W:"?",X:"?",Y:"?",Z:"?",0:"?",1:"??????",2:"?",3:"?",4:"?",5:"?",6:"?",7:"7",8:"??????",9:"?","&":"?","(":"{",")":"}","{":"(","}":")","ä":"a¨","ö":"?¨","ü":"?¨","Ä":"?¨","Ö":"?¨","Ü":"?¨","é":"?´","á":"a´","ó":"?´","ú":"?´","É":"?´","Á":"?´","Ó":"?´","Ú":"?´","è":"?`","à":"a`","ò":"?`","ù":"?`","È":"?`","À":"?`","Ò":"?`","Ù":"?`","ê":"?^","â":"a^","ô":"?^","û":"?^","Ê":"?^","Â":"?^","Ô":"?^","Û":"?^"}},tiny:{init:function(){for(i in this.map)this.map[this.map[i]]=i},encode:function(i){var r,t="";i=i.toUpperCase();for(var o=0,h=i.length;h>o;o++)r=this.map[i.charAt(o)],"undefined"==typeof r&&(r=i.charAt(o)),t+=r;return t},decode:function(i){for(var r,t="",o=0,h=i.length;h>o;o++)r=this.map[i.charAt(o)],"undefined"==typeof r&&(r=i.charAt(o)),t+=r;return t},map:{A:"?",B:"?",C:"?",D:"?",E:"?",F:"?",G:"?",H:"?",I:"?",J:"?",K:"?",L:"?",M:"?",N:"?",O:"?",P:"?",Q:"Q",R:"?",S:"?",T:"?",U:"?",V:"?",W:"?",X:"x",Y:"?",Z:"?"}}};for(i in this.tools)this.tools[i].init();this.getHTML=function(i){for(var r,t="",o=!0,h=0,n=0,a=0,s=i.length;s>a;a++)r=i.charCodeAt(a),10==r||13==r?(t+="<br>\n",o=!0):32==r?o?(t+=" ",o=!1):(t+=" ",o=!0):(r>=55296&&56319>=r?(h=r,n=0):h>0?(r>=56320&&57343>=r&&(n=1024*(h-55296)+(r-56320)+65536),h=0):n=r,0!=n&&(t+="&#x"+n.toString(16)+";",o=!0));return t}}
+
+
+
+
+    
+    // CUTE TEXT:
+    function cuteText(text) {
+      if(text.trim() === "") return "";
+      qi = -1;
+      var bounds = boundingString(Math.floor(Math.random()*2)+1);
+      return bounds + "  ??  " + text.split(/([!?.]+)/gi).map(cuteSentence).join("") + "  ??  " + esrever.reverse(bounds);
+    }
+    function cuteSentence(sentence) {
+      return sentence.split(/([\s,]+)/gi).map(cuteWord).join("");
+    }
+    function cuteWord(word) {
+      //remember to handle exclamations, empty strings, commas etc. etc.!!
+      if(word === "" || /[[!?.\s,]+]/gi.test(word)) return word;
+      //TODO: random turn o's into flowers, turn quotes into unicode and ! and ?
+      word = roundReplace(word);
+      word = punctReplace(word);
+      word = emojiReplace(word);
+      return scriptify(word);
+    }
+    var qi = -1;
+    var qa = ["?","?"];
+    function quotes() {
+      qi++;
+      if(qi === 2) qi = 0;
+      return qa[qi];
+    }
+    function punctReplace(word) {
+      return word.split("")
+        .map(function(a) {
+          if(a === "!") return randomElement(["?","?"]);
+          else if(a === "?") return randomElement(["¿","?"]);
+          else if(a === "\"") return quotes();
+          else return a;
+        }).join("");
+    }
+    function emojiReplace(word) {
+      return word
+      .replace(":)", randomElement(emoji[":)"]))
+      .replace("(:", randomElement(emoji[":)"]))
+      .replace("^^", randomElement(emoji["^^"]))
+      .replace(":P", randomElement(emoji[":p"]))
+      .replace(":p", randomElement(emoji[":p"]))
+      .replace(":D", randomElement(emoji[":D"]))
+      .replace("<3", randomElement(emoji["<3"]))
+      .replace("(y)", randomElement(emoji["(y)"]))
+      .replace("(Y)", randomElement(emoji["(y)"]));
+    }
+    function roundReplace(text) {
+      return text.split("").map(function(a) { if(a.toLowerCase() === "o" || a === "0") { return randomElement(round); } else { return a; } }).join("");
+    }
+    var emoji = {
+      ":)" : ["?(???)?","(•?•)","(????)?","?????","(?????)","???","???","??","?","(????)","?????","(???????)?","(/???)/","s(^?^)-b","(????)","(????)","???"],
+      "^^" : ["(^?^)","(?^?^)","???","???","(???)","^?^","^?^","(???)","???","???",""],
+      ":p" : [":Þ",""],
+      ":D" : ["(????)?*:???","(????)??.*???","?(?)?"],
+      "<3" : ["?","?","?","?","??","??","??","??","??","??","??","??","??"],
+      "(y)" : ["??","??"],
+    };
+    var round = ["?","??","?","??","??","??","?","??","?","??","??","??","??","??","??","?","??","??","??"];
+    var food = ["??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??"];
+    var flowers = ["?","?","?","?","?","?","?","??","??","??","??","??","??","??","??","?","??","??","??","??","??","??"];
+    var twinkles = ["?","??","??","*",":","?","??","?","?","?","?","?",".","°","`","?","?","?","?","?","?","?","?"];
+    var animals = ["??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??"];
+    var plants = ["?","?","?","?","?","?","?","??","??","??","??","??","??","??","??","?","??","??","??","??","??","??"];
+    var misc = ["??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??"];
+    var music = ["?","?","?","?","°","?","?","??","??","??","??","??"];
+    var flourish = ["•?((¯°·._.• ","illilli ","¸,ø¤º°`°º¤ø,¸¸,ø¤º° ","°°°·.°·..·°¯°·._.· ","•´¯`•. ","×º°”˜`”°º× ","•]••´º´•» ","]|I{•------» ","§.•´¨'°÷•..× ","•°¯`•• ","(¯`·.¸¸.·´¯`·.¸¸.-> ","*´¯`*.¸¸.*´¯`* ","(¯`·.¸¸.-> °º ","°·.¸.·°¯°·.¸.·°¯°·.¸.-> ","•._.••´¯``•.¸¸.•` ","¸„.-•~¹°”ˆ˜¨ ","(¯´•._.• ","••¤(`×","•´¯`•» ","`•.,¸¸,.•´¯ ","¸,ø¤º°`°º¤ø,¸ ",".o0×X×0o. ",",-*'^'~*-.,_,.-*~ ","`•.¸¸.•´´¯`••._.• ","—(••÷","¤¸¸.•´¯`•¸¸.•..>> ","••.•´¯`•.•• ",".•°¤*(¯`?´¯)*¤° ","???,¸¸,ø¤º°`°?? ","-?~*'¨¯¨'*·?~ ","?·.·´¯`·.·? ","? ? _ ? ? ? ¦ ","¯_¯_¯_ ","¦¦¦¦¦¦¦¦ "];
+    function boundingString(n) {
+      return randomElement([foodString,twinkleString,animalString,flourishString])(n);
+    }
+    function foodString(n) {
+      return new Array(n+1).join('0').split('').map(function(a){ return randomElement(food); }).join(' ? ');
+    }
+    function twinkleString(n) {
+      return new Array(n+1).join('0').split('').map(function(){ return randomElement(twinkles); }).join("");
+    }
+    function animalString(n) {
+      return new Array(n+1).join('0').split('').map(function(a){ return randomElement(animals); }).join(' ? ');
+    }
+    function flourishString(n) {
+      return randomElement(flourish);
+    }
+    function scriptify(text) {
+      var map = {"0":"??","1":"??","2":"??","3":"??","4":"??","5":"??","6":"??","7":"??","8":"??","9":"??","a":"??","b":"??","c":"??","d":"??","e":"??","f":"??","g":"??","h":"??","i":"??","j":"??","k":"??","l":"??","m":"??","n":"??","o":"??","p":"??","q":"??","r":"??","s":"??","t":"??","u":"??","v":"??","w":"??","x":"??","y":"??","z":"??","A":"??","B":"??","C":"??","D":"??","E":"??","F":"??","G":"??","H":"??","I":"??","J":"??","K":"??","L":"??","M":"??","N":"??","O":"??","P":"??","Q":"??","R":"??","S":"??","T":"??","U":"??","V":"??","W":"??","X":"??","Y":"??","Z":"??"};
+      var charArray = text.split("");
+      for(var i = 0; i < charArray.length; i++) {
+        if( map[charArray[i].toLowerCase()] ) {
+          charArray[i] = map[charArray[i]];
+        }
+      }
+      text = charArray.join("");
+      return text;
+    }
+    function shuffleArray(array) {
+      var currentIndex = array.length, temporaryValue, randomIndex;
+      // While there remain elements to shuffle...
+      while (0 !== currentIndex) {
+        // Pick a remaining element...
+        randomIndex = Math.floor(Math.random() * currentIndex);
+        currentIndex -= 1;
+        // And swap it with the current element.
+        temporaryValue = array[currentIndex];
+        array[currentIndex] = array[randomIndex];
+        array[randomIndex] = temporaryValue;
+      }
+      return array;
+    }
+    function randomElement(a) {
+      return a[Math.floor(Math.random()*a.length)];
+    }
+    //https://github.com/mathiasbynens/esrever
+    !function(e){var o="object"==typeof exports&&exports,r="object"==typeof module&&module&&module.exports==o&&module,n="object"==typeof global&&global;(n.global===n||n.window===n)&&(e=n);var t=/(<%= allExceptCombiningMarks %>)(<%= combiningMarks %>+)/g,i=/([\uD800-\uDBFF])([\uDC00-\uDFFF])/g,f=function(e){e=e.replace(t,function(e,o,r){return f(r)+o}).replace(i,"$2$1");for(var o="",r=e.length;r--;)o+=e.charAt(r);return o},l={version:"<%= version %>",reverse:f};if("function"==typeof define&&"object"==typeof define.amd&&define.amd)define(function(){return l});else if(o&&!o.nodeType)if(r)r.exports=l;else for(var a in l)l.hasOwnProperty(a)&&(o[a]=l[a]);else e.esrever=l}(this);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    // CRAZY TEXT
+    function fullCrazy(text) {
+      if(text.trim() === "") return "";
+      return randomSymbols(2) +"  "+ crazifyText(text) +"  "+ randomSymbols(2)
+    }
+    function crazifyText(text) {
+      text = text.split("");
+      for(var i = 0; i < text.length; i++) { text[i] =  crazifyCharacter(text[i]); }
+      return text.join("");
+    }
+    function crazifyCharacter(c) {
+      c = c.toLowerCase();
+      var map = {"&":"?","%":["?","?","?","?","?"],"0":["0","?","?"],"1":["?","?","1"],"2":["2","?","?"],"3":["3","?","?"],"4":["4","?","?"],"5":["?","?","5"],"6":["6","?","?"],"7":["7","?","?"],"8":["8","?","?"],"9":["?","?","9"],"<":["?","?","«","?","?","?","?","?","?","?","?","«","<","?","?","?"],">":"?»??????????»>??","[":"???[[","]":"???]]","*":"??????????????????????????????????*","a":["?","?","a","A","a","?","?","?","?","a","?","Ã","??","??","??","??","??","??","??","??","?"],"b":["?","?","?","B","?","b","?","ß","?","?","?","ß","??","??","??","??","??","??","??","??","?"],"c":["?","?","?","¢","C","c","?","C","?","c","?","C","?","??","??","??","??","??","??","C","??","?"],"d":["?","?","?","D","d","?","Ð","?","?","d","D","??","??","??","??","??","?","??","??","??","?"],"e":["?","?","?","?","E","e","?","€","?","e","?","?","??","??","??","??","??","??","??","??","?"],"f":["?","?","ƒ","F","f","?","?","F","T","?","?","ƒ","??","??","??","??","??","??","??","??","?"],"g":["?","?","?","g","G","g","G","?","?","g","g","G","??","??","??","??","??","??","??","??","?","?"],"h":["?","?","?","?","H","h","?","H","?","?","h","H","??","??","??","??","??","??","H","??","?"],"i":["?","?","?","I","i","?","?","I","?","?","?","I","??","??","??","??","??","??","??","??","?"],"j":["?","?","?","J","?","j","?","J","?","?","?","J","??","??","??","??","??","??","??","??","?"],"k":["?","?","?","K","k","?","?","?","?","k","?","??","??","??","??","??","??","??","??","?","?"],"l":["?","?","l","?","L","l","?","L","l","l","L","L","??","??","??","??","??","??","??","??","?"],"m":["?","?","?","M","m","?","?","?","?","?","?","??","??","??","??","??","??","??","??","?","?"],"n":["?","?","?","?","N","n","?","N","?","?","?","N","??","??","??","??","??","??","N","??","?"],"o":["?","?","?","s","O","o","?","Ø","?","s","?","?","??","??","??","??","??","??","??","??","?"],"p":["?","?","?","P","p","?","?","?","?","?","?","?","??","??","??","??","??","??","P","??","?"],"q":["?","?","q","Q","q","?","O","?","q","q","O","??","??","??","??","??","??","Q","??","?"],"r":["?","?","?","?","R","r","?","R","?","?","r","R","??","??","??","??","??","??","R","??","?"],"s":["?","?","?","S","?","s","?","S","?","s","s","S","??","??","??","??","??","??","??","??","?"],"t":["?","?","?","T","t","?","T","t","?","t","T","??","??","??","??","??","??","??","??","?"],"u":["?","?","?","U","u","?","?","?","?","ù","U","??","??","??","??","??","??","??","??","?"],"v":["?","?","?","V","v","?","V","?","v","?","?","??","??","??","??","??","??","??","??","?"],"w":["?","?","?","W","w","?","W","?","?","?","W","??","??","??","??","??","??","??","??","?","?"],"x":["?","?","?","X","?","x","?","?","?","x","x","?","??","??","??","??","??","??","??","??","?"],"y":["?","?","?","?","Y","y","?","¥","?","?","?","?","??","??","??","??","??","??","??","??","?"],"z":["?","?","z","?","Z","z","?","Ž","z","z","ž","Z","??","??","??","??","??","??","Z","??","?"]};
+      if(map[c]) { return randomElement(map[c]); }
+      else { return c; }
+    }
+    function randomElement(array) {
+      return array[Math.floor(Math.random() * array.length)]
+    }
+    function randomSymbols(n) {
+      var symbols = ["??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","?","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","??","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?"];
+      var s = [];
+      for(var i = 0; i < n; i++) s.push( randomElement(symbols) );
+      return s.join("");
+    }
+    function randInt(min, max) {
+      return min + Math.floor(Math.random()*(max-min+1));
+}
+
+
+                
+reverseIsDisabled = true;
+function backward(text) { return $('#english-text').val(); }                //]]>
+            //} catch(e) {
+            //    alert("There's an error in the custom script of this translator. Error:"+e);
+            //}
+
+
+
+
+                        try {
+                        
+
+
+                        var jsonData = {"phrases1":"","phrases2":"","words1":"","words2":"","intraword1":"","intraword2":"","prefixes1":"","prefixes2":"","suffixes1":"","suffixes2":"","regex1":"","regex2":"","rev_regex1":"","rev_regex2":"","ordering1":"","ordering2":""};
+                        phrases1 = jsonData.phrases1.split("\n");
+                        phrases2 = jsonData.phrases2.split("\n");
+                        words1 = jsonData.words1.split("\n");
+                        words2 = jsonData.words2.split("\n");
+                        intraword1 = jsonData.intraword1.split("\n");
+                        intraword2 = jsonData.intraword2.split("\n");
+                        prefixes1 = jsonData.prefixes1.split("\n");
+                        prefixes2 = jsonData.prefixes2.split("\n");
+                        suffixes1 = jsonData.suffixes1.split("\n");
+                        suffixes2 = jsonData.suffixes2.split("\n");
+                        regex1 = jsonData.regex1.split("\n");
+                        regex2 = jsonData.regex2.split("\n");
+                        rev_regex1 = jsonData.rev_regex1.split("\n");
+                        rev_regex2 = jsonData.rev_regex2.split("\n");
+            ordering1 = jsonData.ordering1.split("\n");
+            ordering2 = jsonData.ordering2.split("\n");
+
+
+                        } catch(err) {
+                                alert("Ahh an error! Please contact me via hello@josephrocca.com and I'll fix it asap. Error log: "+err.message);
+                        }
+
+
+                        evenUpSizes(phrases1,phrases2);
+                        evenUpSizes(words1,words2);
+                        evenUpSizes(intraword1,intraword2);
+                        evenUpSizes(prefixes1,prefixes2);
+                        evenUpSizes(suffixes1,suffixes2);
+
+
+                        //fix for mysql trailing newline deletion problem
+                        function evenUpSizes(a,b) {
+                                if(a.length > b.length) {
+                                        while(a.length > b.length) b.push("");
+                                } else if(b.length > a.length) {
+                                        while(b.length > a.length) a.push("");
+                                }
+                        }
+
+
+                        handleDuplicates(words1, words2);
+                        /* Initial translate for default text */
+                        if($('#english-text').val() != "") {
+                                var english = $('#english-text').val();
+                                var ghetto = translate(english);
+                                $('#ghetto-text').val(ghetto);
+                        }
+                
+
+
+</script>
+
+
+<script>
+$(function() { 
+ /*if($.trim($("#fancytext").val())!='') { 
+    generateFancy($("#fancytext").val());
+  } else {
+   generateFancy("Preview Text");
+  }*/
+  
+$(".fancytext").keyup(function() { 
+   $(".fancytext").val($(this).val());
+   if($.trim($(this).val())!='') { 
+   generateFancy($(this).val());
+   } else {
+   generateFancy("Preview Text");
+   }
+ });
+var ct = 89;
+function generateFancy(txt) {
+  var fancyText = '';
+     var result = forward(txt);
+         var finalRes =  result.split('\n\n');
+         var sn=1;
+        $.each(finalRes,function(inx, vl) { 
+            $("#copy_"+inx).val(vl);
+            
+         // fancyText  +=  '<div class="input-group mb-3"><input type="text" class="form-control text-'+sn+'" value="'+vl+'" id="copy_'+inx+'" readonly="readonly"><div class="input-group-append"><span class="input-group-text copybutton" style="cursor:pointer;" data-clipboard-action="copy" data-clipboard-target="#copy_'+inx+'">Copy</span></div></div>';
+          sn++;
+        });
+        
+        
+        for(k=89; k<=ct; k++) {
+            //console.log(k);
+            $("#copy_"+k).val(crazyWithFlourishOrSymbols(txt));
+        }
+           //$("#result").html(fancyText); 
+}
+ 
+ $(".loadmore").click(function(){
+   $(this).html('Loading...');
+    var text = $.trim($(".fancytext").val());
+   if(text=='') {
+     text = 'Preview Text';
+   } 
+   var that = $(this);
+   var intvl = setInterval(function(){  that.html('Load More');clearInterval(intvl); }, 1000);
+   for(var i=1;i<=10;i++){
+    fancyText  =  '<div class="input-group mb-3"><input type="text" class="form-control" value="'+crazyWithFlourishOrSymbols(text)+'" id="copy_'+ct+'" readonly="readonly"><div class="input-group-append"><span class="input-group-text copybutton" style="cursor:pointer;" data-clipboard-action="copy" data-clipboard-target="#copy_'+ct+'">Copy</span></div></div>';
+      ct++;
+    $("#result").append(fancyText);
+    }
+ });
+
+
+});
+</script>
+ <script>
+$(function(){
+var intv = setInterval(function(){ $(".copybutton").html('Copy'); }, 2000);
+  $("body").on('click',".copybutton",function() { 
+$(".copybutton").html('Copy');
+$(this).html('Copied'); 
+clearInterval(intv);
+});
+});
+
+
+    var clipboard = new ClipboardJS('.copybutton');
+    clipboard.on('success', function(e) {
+        //console.log(e);
+    });
+    clipboard.on('error', function(e) {
+        //console.log(e);
+    });
+    </script>
+    </body>
+    </html>
+<br /><h1 style="text-align: left;">
+Fancy Font Generator Tool Online For Instagram &amp; Other Networks:</h1><div class="separator" style="clear: both; text-align: center;"><a href="https://1.bp.blogspot.com/-BeTRvsuLMhU/YQ065qT4djI/AAAAAAAAAGo/w1Wh9ID_6O0V82KMIvW3_FFhHdxcMqDFACLcBGAsYHQ/s921/222.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="Fancy Font Generator Tool Online" border="0" data-original-height="496" data-original-width="921" height="344" src="https://1.bp.blogspot.com/-BeTRvsuLMhU/YQ065qT4djI/AAAAAAAAAGo/w1Wh9ID_6O0V82KMIvW3_FFhHdxcMqDFACLcBGAsYHQ/w640-h344/222.png" title="Fancy Font Generator Tool Online" width="640" /></a></div><br /><div><br /></div>
+A nice font generator tool Xoom Fancy Font Generator Tool for Instagram and other social networks, Cool Fancy Text Generator is a copy and paste font generator and font switcher. Transform a text into multiple font styles, such as calligraphy or cursive. It may even convert a text into ancient English or word-formatted styles like "beautiful" or "tattoo." It is becoming more and more common to use Instagram fonts, or fonts for Instagram. Your Instagram photos will stand out with the help of an Instagram font or an IG font. These IG fonts are sure to amaze your social media friends and followers. If you're looking for fonts for Facebook, Twitter, or Instagram, here is the place to go that it provides more fancy fonts.<div><br /></div><div>Xoom Fancy Font Generator Tool is a font maker, a font creator, a font changer, and a particular text maker. It's a charming copy and paste font generator online. Text symbols, fancy letters, cool Unicode fancy letters, stylish fonts, interesting symbols and emojis may be generated with this tool in numerous serif and sans-serif font styles, as well as emojis.</div><div><br /></div><div>It's easy to copy and paste these gorgeous fonts into your Facebook, Twitter, Whatsapp, Snapchat, Instagram Bio... Using beautiful typefaces will make you seem good. As a mobile user, you may use the Font Generator iOS and Android apps. We also provide font keyboards, which allow customers to access fonts straight from their phone's keyboard. These fonts may be downloaded via the Font Keyboard iOS app and the Font Keyboard Android app respectively.</div><div><br /></div><div><div>Your beautiful writing is now ready to be pasted into the comments area of amusing cat videos, but you're wondering how to modify its font. Is it a hack? Is the font you're pasting a real font?</div><div><br /></div><div>Xoom Fancy Font Generator Tool generate fancy fonts, but rather fancy symbols. Start with unicode, an industry standard that specifies hundreds of distinct symbols and characters, and you'll get the idea. If you look at your electronic gadgets and publications, you'll undoubtedly see characters that have been encoded according to the Unicode standard.</div></div>

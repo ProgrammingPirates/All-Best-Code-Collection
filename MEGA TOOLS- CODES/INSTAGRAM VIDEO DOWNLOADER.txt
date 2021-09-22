@@ -1,0 +1,294 @@
+<style>
+input {
+display: inline-block;
+width: 100%;
+max-width: 100%;
+max-width: calc(100% - 8em);
+min-height: 3.8em;
+padding: 0.5em;
+margin: 0.5em 0;
+background: white;
+border-color: red;
+border-width: 5px;
+color: #212121;
+transition: all 500ms ease;
+}
+input:focus, input:hover {
+border-color: #212121;
+transition: all 500ms ease;
+}
+.dummyData{
+display:none;
+}
+.search {
+display: inline-block;
+padding: 0 1em;
+text-align: center;
+min-width: 3.8em;
+height: 3.8em;
+margin: 0;
+background: #208bfd;
+border: 5px solid #212121;
+color: #f9f9f9;
+transition: all 500ms ease;
+}
+.search:focus, .search:hover {
+background: #212121;
+border-color: #f9f9f9;
+cursor: pointer;
+transition: all 500ms ease;
+}
+.gajabwapdata {
+margin: 0 auto;
+padding: 4em 1em;
+max-width: 40em;
+}
+.gajabwapdata video, .gajabwapdata img {
+width: calc(100% - 4em);
+margin: 2em;
+}
+.gajabwapdata .download {
+text-decoration: none;
+display: inline-block;
+padding: 0.5em 1em;
+background: blue;
+border-color: #208bfd;
+border-width: 10px;
+color: #ff0000;
+transition: all 500ms ease;
+}
+.gajabwapdata .download:focus, .gajabwapdata .download:hover {
+background: #ff0000;
+border-color: #f9f9f9;
+cursor: pointer;
+transition: all 500ms ease;
+}
+
+.image-placeholder {
+margin: auto;
+width: 89%;
+max-width: 500px;
+display: block;
+height: 380px;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center center;
+background-image: url(https://cdn.shopify.com/s/files/1/0533/2089/files/placeholder-images-image_large.png?format=jpg&quality=90&v=1530129081);
+}
+
+body {
+margin: 0;
+padding: 0;
+font-family: "roboto",monospace;
+font-size: 12px;
+line-height: 1.5;
+background: #fff;
+color: #000;
+}
+.love {
+padding:2em;
+box-shadow:0 5px 15px rgba(0,0,0,.16);
+border-radius:5px;
+margin-top:1em;
+background:#fff;
+text-align:left
+}
+
+.pasterlink{
+top: 0;
+left: 0;
+width: 100%;
+height: 4em;
+background: white;
+margin: 0 auto;
+text-align: center;
+color: green;
+}
+::placeholder {
+color: black;
+}
+</style>
+
+<!--Instagram Downloader-->
+
+
+
+ <center> <h1>Instagram Image &amp; Video Downloading Tool</h1></center>
+<div class="pasterlink">
+<input id="visittechnicalarp" type="url" value="Paste Instagram Image or Video Link Here" />
+<button class="download btn-outline" onclick="getMedia()" type="submit">Download</button>
+<div class="love container">
+     
+
+    
+
+
+
+
+
+
+
+
+                
+
+
+
+
+
+
+            
+
+<br />
+<br />
+<br /><br />
+
+   
+   </div>
+<br />
+</div>
+
+    
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<section class="gajabwapdata">
+<br />
+
+</section>
+
+
+
+     
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+                
+   
+<div class="dummyData">NO Data</div>
+  <div class="main no-items section" id="main"></div>
+
+
+
+<!--Theme Functions JS by Technical Arp-->
+<script>
+ const render = document.querySelector('.gajabwapdata');
+  const sonu = document.querySelector('.dummyData');
+ 
+//Get Data - Sorry Encrypted Because it was already encryted - We Just Changed UI of it. 
+
+const createVideo = (_0xd7b7x2) => {
+    let _0xd7b7x3 = document['createElement']('video');
+    _0xd7b7x3['id'] = 'instavideo';
+    _0xd7b7x3['src'] = _0xd7b7x2['content'];
+    _0xd7b7x3['controls'] = true;
+    _0xd7b7x3['autoplay'] = true;
+    console['log']('Inside Video');
+    let _0xd7b7x4 = document['createElement']('p');
+    _0xd7b7x4['textContent'] = 'Click the right button on video and select save as.';
+    render['innerHTML'] = '';
+    render['appendChild'](_0xd7b7x3);
+    render['appendChild'](_0xd7b7x4)
+};
+const createImg = (_0xd7b7x2) => {
+    let _0xd7b7x6 = document['createElement']('img');
+    _0xd7b7x6['id'] = 'instaImg';
+    _0xd7b7x6['src'] = _0xd7b7x2['content'];
+    console['log']('Inside Img');
+    let _0xd7b7x4 = document['createElement']('p');
+    _0xd7b7x4['textContent'] = 'Click the right button on the image and select save image..';
+    render['innerHTML'] = '';
+    render['appendChild'](_0xd7b7x6);
+    render['appendChild'](_0xd7b7x4)
+}
+
+var _0x52b7 = ["\x68\x74\x74\x70\x73\x3A\x2F\x2F\x77\x77\x77\x2E\x69\x6E\x73\x74\x61\x67\x72\x61\x6D\x2E\x63\x6F\x6D\x2F\x28\x2E\x2B\x3F\x29", "\x69\x6E\x6E\x65\x72\x48\x54\x4D\x4C", "\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x27\x69\x6D\x61\x67\x65\x2D\x70\x6C\x61\x63\x65\x68\x6F\x6C\x64\x65\x72\x27\x3E\x3C\x2F\x64\x69\x76\x3E", "\x76\x61\x6C\x75\x65", "\x23\x76\x69\x73\x69\x74\x74\x65\x63\x68\x6E\x69\x63\x61\x6C\x61\x72\x70", "\x71\x75\x65\x72\x79\x53\x65\x6C\x65\x63\x74\x6F\x72", "\x6C\x6F\x67", "\x6D\x61\x74\x63\x68", "\x49\x6E\x73\x69\x64\x65\x20\x50\x61\x74\x74\x65\x72\x6E", "\x49\x6E\x73\x69\x64\x65\x20\x55\x52\x4C", "\x49\x6E\x73\x69\x64\x65\x20\x46\x65\x74\x63", "\x6D\x65\x74\x61\x5B\x70\x72\x6F\x70\x65\x72\x74\x79\x3D\x22\x6F\x67\x3A\x76\x69\x64\x65\x6F\x22\x5D", "\x6D\x65\x74\x61\x5B\x70\x72\x6F\x70\x65\x72\x74\x79\x3D\x22\x6F\x67\x3A\x69\x6D\x61\x67\x65\x22\x5D", "\x70\x6C\x61\x63\x65\x68\x6F\x6C\x64\x65\x72", "\x49\x6E\x76\x61\x6C\x69\x64\x20\x61\x64\x64\x72\x65\x73\x73\x2C\x20\x75\x73\x65\x20\x61\x20\x70\x72\x6F\x70\x65\x72\x20\x49\x6E\x73\x61\x67\x72\x61\x6D\x20\x6C\x69\x6E\x6B", "\x73\x65\x74\x41\x74\x74\x72\x69\x62\x75\x74\x65", "\x76\x69\x73\x69\x74\x74\x65\x63\x68\x6E\x69\x63\x61\x6C\x61\x72\x70", "\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x42\x79\x49\x64", "", "\x66\x6F\x63\x75\x73", "\x45\x72\x72\x6F\x72\x20\x65\x78\x74\x72\x61\x63\x74\x69\x6E\x67\x20\x49\x6E\x73\x74\x61\x67\x72\x61\x6D\x20\x69\x6D\x61\x67\x65\x20\x2F\x20\x76\x69\x64\x65\x6F\x2E", "\x74\x68\x65\x6E", "\x74\x65\x78\x74"];
+const getMedia = () => {
+    var _0x572bx2 = new RegExp(_0x52b7[0]);
+    render[_0x52b7[1]] = _0x52b7[2];
+    let _0x572bx3 = document[_0x52b7[5]](_0x52b7[4])[_0x52b7[3]];
+    console[_0x52b7[6]](_0x572bx3);
+    if (_0x572bx3[_0x52b7[7]](_0x572bx2)) {
+        console[_0x52b7[6]](_0x52b7[8]);
+        if (_0x572bx3) {
+            console[_0x52b7[6]](_0x52b7[9]);
+            fetch(_0x572bx3)[_0x52b7[21]]((_0x572bx4) => _0x572bx4[_0x52b7[22]]())[_0x52b7[21]]((_0x572bx4) => {
+                sonu[_0x52b7[1]] = _0x572bx4;
+                console[_0x52b7[6]](_0x52b7[10]);
+                let _0x572bx5 = setTimeout(() => {
+                    let _0x572bx6 = document[_0x52b7[5]](_0x52b7[11]);
+                    if (_0x572bx6) {
+                        createVideo(_0x572bx6)
+                    } else {
+                        let _0x572bx7 = document[_0x52b7[5]](_0x52b7[12]);
+                        if (_0x572bx7) {
+                            createImg(_0x572bx7)
+                        } else {
+                            document[_0x52b7[5]](_0x52b7[4])[_0x52b7[15]](_0x52b7[13], _0x52b7[14]);
+                            document[_0x52b7[17]](_0x52b7[16])[_0x52b7[3]] = _0x52b7[18];
+                            document[_0x52b7[17]](_0x52b7[16])[_0x52b7[19]]();
+                            alert(_0x52b7[20])
+                        }
+                    };
+                    clearTimeout(_0x572bx5)
+                }, 200)
+            })
+        }
+    } else {
+        document[_0x52b7[5]](_0x52b7[4])[_0x52b7[15]](_0x52b7[13], _0x52b7[14]);
+        document[_0x52b7[17]](_0x52b7[16])[_0x52b7[3]] = _0x52b7[18];
+        document[_0x52b7[17]](_0x52b7[16])[_0x52b7[19]]()
+    }
+}
+</script>
+<br /><h1 style="text-align: center;">
+
+
+Instagram Image &amp; Video Download Tool:</h1><div class="separator" style="clear: both; text-align: center;"><a href="https://1.bp.blogspot.com/-TN5vsUhHkdY/YQ0wtobmGyI/AAAAAAAAAGg/4shVzUk9u_0Fh9IyJ1cthMNBeROW3jF0wCLcBGAsYHQ/s918/1111.png" style="margin-left: 1em; margin-right: 1em;"><img alt="Instagram Image &amp; Video Download Tool" border="0" data-original-height="507" data-original-width="918" height="354" src="https://1.bp.blogspot.com/-TN5vsUhHkdY/YQ0wtobmGyI/AAAAAAAAAGg/4shVzUk9u_0Fh9IyJ1cthMNBeROW3jF0wCLcBGAsYHQ/w640-h354/1111.png" title="Instagram Image &amp; Video Download Tool" width="640" /></a></div><br /><div><h1 style="text-align: center;">Instagram Image &amp; Video Download Tool:</h1><div><div style="text-align: center;">Instagram Image &amp; Video Download Tool allows you to download movies and images for free to your iPhone, Android smartphone, computer, or Mac.</div><div style="text-align: center;"><br /></div><div style="text-align: center;">Using Instagram's URL feature, you may copy and paste a video or image's URL into the input text box above.</div><div style="text-align: center;"><br /></div><div style="text-align: center;"><b>Instagram Video Downloader has the following capabilities:</b></div><div style="text-align: center;"><b><br /></b></div><div style="text-align: center;"><b>Fast, simple, and secure are the hallmarks of this process.</b></div><div style="text-align: center;"><b><br /></b></div><div style="text-align: center;"><b>Instagram accounts do not require authentication.</b></div><div style="text-align: center;"><b><br /></b></div><div style="text-align: center;"><b>Instagram videos &amp; images may be downloaded with a single click.</b></div><div style="text-align: center;"><b><br /></b></div><div style="text-align: center;"><b>You may save &amp; download films &amp; images in their original resolution &amp; quality using this feature.</b></div><div style="text-align: center;"><b><br /></b></div><div style="text-align: center;"><b>Instagram videos from private accounts may be saved and downloaded.</b></div><div style="text-align: center;"><b><br /></b></div><div style="text-align: center;"><b>Use our Instagram Profile Downloader if you want to save a profile photo from a certain account on Instagram.</b></div></div><div style="text-align: center;"><br /></div><div style="text-align: center;">Instagram Image &amp; Video Download Tool given by xoom internet, enables users download Instagram picture and snaps. Instagram Image &amp; Video Download Tool is a simple program to use for downloading from Instagram. The Instagram Image &amp; Video Download Tool works well with any browser on a PC or mobile device.</div><div style="text-align: center;"><br /></div><div style="text-align: center;">For any convenience, we have also produced an extension for PC browsers and for all Android users we have developed a very clever app. See down for further information.</div></div><div style="text-align: center;"><br /></div><div><div style="text-align: center;">We've created the finest plugin for those who want to download IG videos directly. An icon will appear when you move the mouse pointer over the video or image that you wish to save. The movie or photo file will be downloaded promptly and in the highest possible quality when you click the download button.</div><div style="text-align: center;"><br /></div><div style="text-align: center;">There are no mobile versions of this extension. It is compatible with desktop browsers on Windows, Mac OS, Linux, and Ubuntu, as well as Opera, Safari, and all other Chromium-based browsers.</div></div><div><br /></div><div><br /></div><div><br /></div>

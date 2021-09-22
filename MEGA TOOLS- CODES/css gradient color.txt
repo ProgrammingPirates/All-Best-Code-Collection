@@ -1,0 +1,137 @@
+<style type="text/css">    
+  /*    
+  -----------------------------------------------------------------------------------    
+  This Script was founded & Modify by Emexee Team    
+  ----------------------------------------------------------------------------------- */    
+  body {  
+      background: linear-gradient(to right, rgb(255, 255, 255), rgb(255, 255, 255));  
+ }  
+ .title {  
+   background-color: #fff;  
+   border-left: 0px solid #00FF0D;  
+   border-right: 0px solid #00FF0D;  
+   border-radius: 0px 0px 0px 0px;  
+   color: #fff;  
+   padding: 8px;  
+   font-size: 22px;  
+   text-align: center;  
+ }  
+ .subtitle {  
+      font-family: "Kanit", sans-serif;  
+      color: black;  
+ }  
+ .title {  
+      letter-spacing: 0.4em;  
+ }  
+ .subtitle {  
+      letter-spacing: 0.2em;  
+ }  
+ .color1,  
+ .color2 {  
+      width: 3em;  
+      height: 3em;  
+      cursor: pointer;  
+ }  
+ .current-bg {  
+      font-family: "Source Code Pro", monospace;  
+      color: white;  
+ }  
+ .copy-property {  
+      color: black;  
+      cursor: grab;  
+ }  
+ .copy-property:active {  
+      cursor: grabbing;  
+ }  
+ .random-btn {  
+      color: black;  
+      border-radius: 1rem;  
+      transition: all 0.3s ease-in-out;  
+ }  
+ .random-btn:hover {  
+      background: steelblue;  
+      border: 1px solid steelblue;  
+      color: white;  
+      transform: scale(1.1);  
+ }  
+ .adspacebytechnicalarp {  
+   padding: 2em;  
+   box-shadow: 0 5px 15px rgba(0,0,0,.16);  
+   border-radius: 5px;  
+   margin-top: 1em;  
+   background: #fff;  
+   text-align: left;  
+ }  
+  </style>
+
+<center>  
+  <!--main section-->  
+ <section class="mt-3" id="main">  
+      <div class="container mainbox">  
+           <div class="row">  
+                <div class="col text-center">  
+                     <h2 class="title text-uppercase font-weight-bold">  
+                          Gradient Color Code Generator  
+                     </h2>  
+                    
+         <br />  
+                     <input class="color1 my-4 mr-4" name="color1" type="color" value="#f7f7f7" />  
+                     <input class="color2" name="color2" type="color" value="#F7EFFF" />  
+                     <h4 class="subtitle text-uppercase font-weight-bold">  
+                          Current CSS Background  
+                     </h4>  
+                     <h5 class="current-bg font-weight-bold my-4"></h5>  
+                     <p class="copy-property lead font-italic">Click here to copy!</p>  
+             
+         <br />  
+                     <button class="random-btn btn btn-light btn-lg mt-3 p-3">  
+                          Generate random  
+                     </button>
+                  
+                            
+                  
+                </div>  
+           </div>  
+      </div>  
+ </section>  
+ <!--end of main section-->   
+ </center>  
+  <script language="Javascript">    
+ const htmlBody = document.querySelector(".mainbox");  
+ const color1 = document.querySelector(".color1");  
+ const color2 = document.querySelector(".color2");  
+ const currentSelection = document.querySelector(".current-bg");  
+ const copyProperty = document.querySelector(".copy-property");  
+ const randomButton = document.querySelector(".random-btn");  
+ function setGradient() {  
+      htmlBody.style.background = `linear-gradient(to right, ${color1.value}, ${color2.value})`;  
+      currentSelection.textContent = `${htmlBody.style.background};`;  
+ }  
+ function generateRandom() {  
+      const randomColor1 = Math.random().toString(16).slice(2, 8).toUpperCase();  
+      const randomColor2 = Math.random().toString(16).slice(2, 8).toUpperCase();  
+      color1.value = `#${randomColor1}`;  
+      color2.value = `#${randomColor2}`;  
+      setGradient();  
+ }  
+ function copyText() {  
+      const text = currentSelection.innerText;  
+      let temp_element = document.createElement("textarea");  
+      document.body.appendChild(temp_element);  
+      temp_element.value = text;  
+      temp_element.select();  
+      document.execCommand("copy");  
+      document.body.removeChild(temp_element);  
+ }  
+ window.addEventListener("load", setGradient);  
+ color1.addEventListener("input", setGradient);  
+ color2.addEventListener("input", setGradient);  
+ copyProperty.addEventListener("click", copyText);  
+ randomButton.addEventListener("click", generateRandom);   
+  </script>
+<br /><br /><h1 style="text-align: center;">
+CSS Gradient Color Generator Tool</h1><div class="separator" style="clear: both; text-align: center;"><a href="https://1.bp.blogspot.com/-f0FUaKVqrS8/YQziCHYzCkI/AAAAAAAAAFg/8jC7BBVvlMYqRbEEjYuZS-97BSdrHUgPQCLcBGAsYHQ/s931/xgc.png" style="margin-left: 1em; margin-right: 1em;"><img alt="Gradient Color" border="0" data-original-height="506" data-original-width="931" height="348" src="https://1.bp.blogspot.com/-f0FUaKVqrS8/YQziCHYzCkI/AAAAAAAAAFg/8jC7BBVvlMYqRbEEjYuZS-97BSdrHUgPQCLcBGAsYHQ/w640-h348/xgc.png" title="Gradient Color" width="640" /></a></div><br /><div><br />
+
+Xoom&nbsp;CSS Gradient Color Generator Tool is a free online tool and application that enables you build a website's gradient backdrop using CSS Gradient. Additionally,&nbsp;CSS Gradient Color Generator Tool offers an abundance of information about CSS gradients, ranging from technical publications to real-life applications like Stripe and Instagram.&nbsp;</div><div><div><br /></div><div>If you do not know what Gradient Color is, go here to learn more about it. Hence, there is a color pattern. Two or more colors are used to create the color pattern in this case. We also utilize gradient color when developing websites. If you are a coder, you should be familiar with it.</div><div><br /></div><div>Different color codes are used while developing websites. In the same way, the Gradient Color Code works. This is something we cannot recall. In order to create this gradient co lour, we require the Gradient Color Code Generator Tool. Gradient Color CSS Code may be simply generated with the assistance of this tool.</div></div><h2 style="text-align: left;">When you made this, why did you do it?&nbsp;</h2><div>It wasn't long ago that gradients were overused on the web, but today they're so pervasive that you'd be negligent not to use them on your site, your interface, and your hair color.
+
+As well, I'm an active participant in a community of makers dedicated to improving the internet one digital project at a time. Cool Backgrounds, another free design tool for creating background wallpaper for websites, blogs, and phones, is one of our most recent projects.</div>

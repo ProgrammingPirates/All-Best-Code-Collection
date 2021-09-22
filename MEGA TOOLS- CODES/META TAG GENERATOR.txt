@@ -1,0 +1,133 @@
+ <div dir="ltr" style="text-align: center;" trbidi="on">  
+ <style>   
+ input[type="text"],  
+ textarea {-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box;width:100%; border: 5px dotted #295594;outline-color:#FF0000;  
+ }  
+ #gyanhinditips {  
+  padding: 10px 16px 10px;  
+  text-align: center;  
+  border: 1px solid #ccc;  
+ }  
+ input[type="text"] { color: #333;  
+  padding: 10px;  
+  font-size: 16px;  
+  font-family: PT Sans, sans-serif;  
+  border: 1px solid #5A5D5A;  
+  margin: 3px auto ;  
+  border-radius: 3px;  
+  width: 100%;  
+ }  
+                 input[ TYPE="reset"  
+                 ],  
+ input[type="button"] {  
+  background-color: #ea141f;  
+  border: #000000 solid 0px;  
+  color: #FFF;  
+  cursor: pointer;  
+  padding:6px 6px 6px 6px ;  
+  font-size:22px;  
+  width:45%;  
+  margin: 15px auto ; cursor: pointer; margin-left: 15px;  
+ }  
+  select {  
+   font-size:18px; background-color: #F7F7F7; padding:5px 7px; border:2px solid #E71421; radius: 0px; -webkit-border-radius: 0px;border-radius: 0px 0px;   
+ }  
+           .heading{background-color: #ff0000;   
+ background-repeat: no-repeat no-repeat;  
+ color:#F2F2F2; font-family: Georgia, 'Times New Roman', Times, serif; font-size: 14px; line-height:0px; margin-bottom: 1.571em; padding: 20px 20px 20px 45px; }  
+                </style>  
+                
+                <head>  
+                 <div id="Krishna Brandstore">  
+                 <div class="Krishna Brandstore">  
+ <b style="margin: 0px; padding: 0px; text-align: center;"></b>  
+ </div>  
+                <script language="JavaScript">  
+                <!-- Begin  
+                function create(form) {  
+                  if (form.input2.value != "") {  
+                   form.story.value +=" <b:if cond='data:blog.url == data:blog.homepageUrl'>   <meta NAME=\"Description\" CONTENT=\"" +  
+                   form.input2.value + "\"/></b:if>\n";  
+                  }  
+                  if (form.input4.value != "") {  
+                   form.story.value +="<meta NAME=\"Keywords\" CONTENT=\"" +  
+                   form.input4.value + "\"/>\n";  
+                  }  
+                  if (form.input5.value != "") {  
+                   form.story.value +="<meta NAME=\"Author\" CONTENT=\"" +  
+                   form.input5.value + "\"/>\n";  
+                  }  
+                  if (form.input7.value != "") {  
+                   form.story.value +="<meta NAME=\"Language\" CONTENT=\"" +  
+                   form.input7.value + "\"/>\n";  
+                  }  
+                  if (form.input10.value != "") {  
+                   form.story.value +="<meta NAME=\"Country\" CONTENT=\"" +  
+                   form.input10.value + "\"/>\n";  
+                  }  
+                  if (form.input15.value != "") {  
+                   form.story.value +="<meta NAME=\"Robots\" CONTENT=\"" +  
+                   form.input15.options[form.input15.selectedIndex].value + "\"/>\n";  
+                  }  
+                 }  
+                // End -->  
+                </script>  
+                </div></head>  
+                <body>  
+                <div align="center">  
+                 <center>  
+                  <div align="left">  
+ </div>  
+ <table border="0" cellpadding="0" cellspacing="0" class="normal" style="width: 100%px;">  
+                  <td>  
+ <form>  
+                   <div align="center">  
+ <center>  
+ <table border="0" cellpadding="1" class="normal">  
+ <tr>  
+                     <td>Description:</td>  
+                     <td><input name="input2" size="20" type="text" /></td>  
+                    </tr>  
+ <tr>  
+                     <td>Keywords:</td>  
+                     <td><input name="input4" size="20" type="text" /></td>  
+                    </tr>  
+ <tr>  
+                     <td>Author:</td>  
+                     <td><input name="input5" size="20" type="text" /></td>  
+                    </tr>  
+ <tr>  
+                     <td>Language:</td>  
+                     <td><input name="input7" size="20" type="text" /></td>  
+                    </tr>  
+ <!-- Designer =  
+ Webmaster -->  
+ <tr>  
+                     <td>Country:</td>  
+                     <td><input name="input10" size="20" type="text" /></td>  
+                    </tr>  
+ <tr>  
+                     <td>Robots:</td>  
+                     <td><select name="input15" size="1">  
+                      <option selected="" value="">Select One</option>  
+                      <option value="All">All</option>  
+                      <option value="None">None</option>  
+                      <option value="Index">Index</option>  
+                      <option value="No Index">No Index</option>  
+                      <option value="Follow"> Follow</option>  
+                      <option value="No Follow">No Follow</option>  
+                     </select>  
+                     </td>  
+                    </tr>  
+ </table>  
+ </center>  
+ </div><center>  
+ <input onclick="create(this.form)" type="button" value="Genrate" /> <input br="" type="reset" value="Reset" /> <textarea cols="30" name="story" rows="4" wrap=""></textarea>  
+ </center></form>  
+ </td></table>  
+ </center>  
+ </div>  
+ </body>  
+
+ </div> 
+<br /><br />

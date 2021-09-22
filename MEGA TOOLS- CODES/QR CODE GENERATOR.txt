@@ -1,0 +1,132 @@
+<style> 
+	#qr-container{
+		width: 100%;
+		margin-top: 50px;
+	}
+	#qr-error-msg-container{
+		width: 80%;
+
+	}
+	#qr-form-container{
+		width: 80%;
+		margin: auto;
+		display: flex;
+		flex-direction: row;
+		justify-content: space-between;
+	}
+	#qr-download-btn{
+		background-color: transparent;
+		font-weight: bold;
+		font-size: 50px;
+	}
+	#qr-error-msg{
+		width: auto;
+		background-color: bisque;
+		padding: 15px;
+		margin: auto;
+		display: flex;
+		flex-direction: row;
+		justify-content: space-between;
+		align-items: center;
+	}
+	#qr-call-btn, #qr-download-btn {
+		width: 20%;
+		border-radius: 0px;
+		background-color: #f7f7f7;
+		color: black;
+		border: 12px solid #8C8A8C;
+		padding: 15px;
+		font-family: poppins, sans-serif;
+		outline: none;
+	}
+	#qr-input-content{
+		width: 80%;
+		border-radius: 0px;
+		color: #FF6666;
+		background-color: white;
+		border: 12px solid #FF6666;
+		padding: 15px;
+		font-family: poppins, sans-serif;
+		outline: none;
+	}
+	#qr-download-section{
+		text-align: center;
+	}
+
+	@media screen and (max-width:800px) {
+		#qr-form-container{
+			width: 100%;
+			text-align: center;
+			flex-direction: column;
+		}
+		#qr-error-msg-container{
+		width: auto;
+	}
+	
+		#qr-input-content{
+			width: auto;
+			float: none;
+		}
+		#qr-call-btn , #qr-download-btn, #qr-error-msg{
+			width: auto;
+			margin-top: 10px;			
+		}
+		#qr-download-btn{
+			width: 100%;
+		}
+	}
+</style>
+<div id="qr-form-container">
+	
+		<input class="form-control" id="qr-input-content" placeholder="Enter text/link" required="" type="text" /> 
+		<br />	
+			<button id="qr-call-btn" type="button">Generate</button> 		
+	
+	
+</div>
+
+<div id="qr-error-msg-container" style="margin: auto;"> 
+
+	<p><br /></p>
+	<div id="qr-error-msg" style="border-radius: 0%; font-family: poppins, sans-serif; margin: auto;">
+		<strong>Warning! Please Enter Something...</strong> 
+		<button id="close-qr-error" style="background-color: transparent; border: none; font-size: 16px; font-weight: bold;" type="button">?-</button>
+	</div>
+	</div>
+<div class="text-center" id="qr-download-section"> 
+<script src="https://code.jquery.com/jquery-3.5.1.js"></script> 
+
+<script> 
+
+	
+
+	function chartCall(value) { 
+		return $('<div/>').text(value).html(); 
+	} 
+
+	$('#close-qr-error').on("click", function(){
+		$('#qr-error-msg').hide();
+	});
+
+	$(function () { 
+		$('#qr-error-msg').hide();
+		$('#qr-call-btn').click(function () {
+			if($('#qr-input-content').val() != 0){
+				$('#qr-error-msg').hide();
+			$("#qr-download-section").empty();
+			let finalURL = 'https://chart.googleapis.com/chart?cht=qr&chl=' + chartCall($('#qr-input-content').val()) + '&chs=200x200&chld=L|0'; 
+			var qrImg = "<img src='' class='qr-code' />";
+			$("#qr-download-section").append(qrImg);
+			$('.qr-code').attr('src', finalURL); 
+			var qrSpace = "<p><br></p>";
+			var qrDwnldBtn= "<a  href="+finalURL+"> <button id='qr-download-btn' type='button' style='font-size: 12px;'>Download</button> </a> ";
+			$("#qr-download-section").append(qrSpace,qrDwnldBtn);
+			}
+			else{
+                $("#qr-download-section").empty();
+				$('#qr-error-msg').show();
+			}
+		}); 
+	}); 
+</script></div>
+<br /><br /><h1 style="text-align: left;">What Is a QR Code (Quick Response Code)?</h1><div class="separator" style="clear: both; text-align: center;"><a href="https://1.bp.blogspot.com/-iM00tUmsPPY/YQ-gSRj7ggI/AAAAAAAAALc/bPUjfr3KRuEwV0Wy1TtrunotOsa-XPMRACLcBGAsYHQ/s640/hands-1167612_640.jpg" style="margin-left: 1em; margin-right: 1em;"><img alt="QR Code Generator Tool Online" border="0" data-original-height="366" data-original-width="640" height="366" src="https://1.bp.blogspot.com/-iM00tUmsPPY/YQ-gSRj7ggI/AAAAAAAAALc/bPUjfr3KRuEwV0Wy1TtrunotOsa-XPMRACLcBGAsYHQ/w640-h366/hands-1167612_640.jpg" title="QR Code Generator Tool Online" width="640" /></a></div><br /><div><br /></div><div>In this case, 'QR' means Quick Response plus Code. Smartphones can read this two-dimensional barcode. More than 4000 characters can be encoded in a two-dimensional barcode. Most often, it is used to create links or text. Here's a picture of a QR code for your convenience. If you want to scan a QR code, you'll need the Scanner App. As you can see, there are several alternatives accessible on the Play Store and the Apple store. If you're feeling lazy, here's a link to a QR Code Scanner App you may download.</div><span><!--more--></span><div><br /></div><div><h2 style="text-align: left;">What Is a QR Code and How Do I Use It?</h2><div>The abbreviation 'QR' is an acronym for Quick Response plus Code. The barcode is a two-dimensional barcode that smartphones are able to read. Two-dimensional barcodes may be encoded with about 4000 characters. As a general rule, it is used to generate hyperlinks and write text, among other things. You can see a picture of the QR code in the gallery below. Scanner App is required to use a QR Code. The play store and spp store have a wide variety of alternatives. Here is a link to a QR Code Scanner App if you are feeling lazy.</div></div><div><br /></div><div><h2 style="text-align: left;">How To Create&nbsp; a QR Code?</h2><div>How can you build this magical square now that you know how to scan QR codes? There are countless areas where they may be created. All you have to do is input the URL where you want the code linked and the Xoom QR code generator will produce it.</div></div><div><br /></div><div><h2 style="text-align: left;">BUSINESS CARD USE IDEAS FOR QR CODES</h2><div>Here's the good stuff. How on earth can you utilise a QR code on blogger business cards now that you've mastered the art of the QR code?</div><div><br /></div><div>Whatever you link to MUST be mobile-friendly. Testing on your phone (or a friend's phone... simply give it back) is highly recommended before submitting. TEST TEST TEST. Do not waste your time and money by printing 250 cards with non-working QR codes.</div><div><br /></div><div>Be careful to explain what the QR code contains on your business card. Be enticing, straightforward, or inventive. It's up to you. Just a few sentences will enough in this instance.</div><div><br /></div><div>Use QR codes for more than simply linking to your site with these seven creative ideas.</div></div><div><br /></div><div><h2 style="text-align: left;">1. Provide a link to a page that provides further information about you.</h2><div>If you want to do this, you have an infinite number of possibilities. For those who utilize a QR code, you may link to your About Me page on your blog or build a separate About Me website. Link to your About.me page (you have one, right? ), where you may list all of your websites and social media accounts (if you have them). If you have a Jumpscan profile with your contact information, you may connect to that. You may follow along with Gigi from Kludgy Mom in her guide on how to construct a mobile-friendly page with contact information using Jumpscan.</div></div><div><br /></div><div><h2 style="text-align: left;">Link to a sign-up form for email.</h2><div>A newsletter that you believe others might enjoy is available for download here. What about an email subscription option for your blog posts? This form should be linked to your QR code. The coolest method to expand your subscriber base is through mobile devices. How can you know who's QR code has this feature? Wink. Wink.</div></div><div><br /></div><h2 style="text-align: left;">3. Link to an entry form for a giveaway.</h2><div>Attending a conference this year that is sponsored by a company? That sponsor's goods can be given away in exchange for a link to a page where participants can enter. As far as timing goes, you have a few of choices. Start by printing a modest number of copies for that particular conference. As a second option, you may update the page after each conference. Instead of www.blogname.com/type-a-conference-giveaway, use www.blogname.com/QR-code. It's easy to alter the content of that page to "about me" when you aren't travelling. It's easiest to do this on a different page (not a blog post).</div><div><br /></div><div><h2 style="text-align: left;">4. Provide a link to a video about you, your purpose, or something else that you find particularly interesting.</h2><div>If you want to tell someone more about yourself or your blog's goal, make a short video. That individuality of yours may be displayed in a very positive way. Consider using this opportunity to explain how you're supporting the cause and encourage others to give.</div></div><div><br /></div><div><h2 style="text-align: left;">5. Incorporate your contact information into their phone's contacts.</h2><div><br /></div><div>Your phone would automatically store the contact information of a person who scanned a QR code from your phone. Even if it's a little early, it's still very cool. QR Stuff's vcard option may be used for this.</div><div><br /></div><h2 style="text-align: left;">6. Make a unique offer to your readers.</h2><div><br /></div><div>What would you like to give your new fan as a gift? A brief e-book, a checklist, or something else you feel exceptional might be sent to them, depending on their specialization.</div><div><br /></div><div>Offer a special pricing for advertising or an unique promotional offer as an alternative. In this case, the possibilities are limitless.</div></div>

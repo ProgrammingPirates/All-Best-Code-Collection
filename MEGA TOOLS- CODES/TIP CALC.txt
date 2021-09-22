@@ -1,0 +1,163 @@
+
+    <form>
+      <p>How much was your bill?
+        </p>
+          $ <input id="billamt" type="text" />
+
+          <p>How was your service?
+            </p>
+              <select id="serviceQual">
+            <option disabled="" selected="" value="0">Select Option</option>
+            <option value="0.3">30% - Outstanding</option>
+            <option value="0.2">20% - Good</option>
+            <option value="0.15">15% - It was OK</option>
+            <option value="0.1">10% - Bad</option>
+            <option value="0.05">5% - Terrible</option>
+        </select>
+
+    
+    <p>How many people are sharing the bill?</p>
+    <input id="peopleamt" type="text" />
+    <button id="calculate" type="button">Calculate!</button>
+      </form>
+
+  <div id="totalTip">
+    <sup>$</sup><span id="tip">0.00</span>
+    <small id="each">each</small>
+  </div><div><br /></div>
+<style>
+
+p {
+  padding-left: 20px;
+}
+
+form input[type="text"] {
+  width: 100px;
+}
+
+input {
+  padding-left: 20px;
+}
+
+#billamt {
+  font-size: 34px;
+  color: red;
+  background-color: #fff;
+  width: 50%;
+  padding: 5px 5px 8px 8px;
+}
+
+#billamt:focus {
+  background: #fff;
+  border: 15px solid #2980b9;
+  outline: none;
+}
+
+#peopleamt {
+  width: 50%;
+  padding: 5px 5px 8px 8px;
+  margin-left: 20px;
+  color: red;
+  background-color: #fff;
+  font-size: 34px;
+}
+
+.dollarSign {
+  display: inline;
+}
+
+#serviceQual {
+  padding: 5px 5px 8px 8px;
+  margin-left: 20px;
+  font-size: 24px;
+}
+
+button {
+  text-transform: uppercase;
+  font-weight: bold;
+  display: block;
+  margin: 30px auto;
+  background: #ff0000;
+  border-radius: 0px;
+  width: 400px;
+  height: 70px;
+  font-size: 34px;
+  color: white;
+}
+
+button:hover {
+  background: #4c2827;
+  border-bottom-color: #111;
+}
+
+button:active {
+  position: relative;
+  top: 1px;
+}
+
+#totalTip {
+  font-size: 30px;
+  margin-top: 5px;
+  text-align: center;
+}
+
+#totalTip:before {
+  content: "Tip amount";
+  font-size: 20px;
+  font-weight: bold;
+  display: block;
+  text-transform: uppercase;
+}
+
+#totalTip sup {
+  font-size: 20px;
+  top: -18px;
+}
+
+#totalTip small {
+  font-size: 20px;
+  font-weight: bold;
+  display: block;
+}
+</style>
+<script>
+  //Calculate Tip
+function calculateTip() {
+  var billAmt = document.getElementById("billamt").value;
+  var serviceQual = document.getElementById("serviceQual").value;
+  var numOfPeople = document.getElementById("peopleamt").value;
+
+  //validate input
+  if (billAmt === "" || serviceQual == 0) {
+    alert("Please enter values");
+    return;
+  }
+  //Check to see if this input is empty or less than or equal to 1
+  if (numOfPeople === "" || numOfPeople <= 1) {
+    numOfPeople = 1;
+    document.getElementById("each").style.display = "none";
+  } else {
+    document.getElementById("each").style.display = "block";
+  }
+
+  var total = (billAmt * serviceQual) / numOfPeople;
+
+  total = Math.round(total * 100) / 100;
+
+  total = total.toFixed(2);
+
+  document.getElementById("totalTip").style.display = "block";
+  document.getElementById("tip").innerHTML = total;
+
+}
+
+document.getElementById("totalTip").style.display = "none";
+document.getElementById("each").style.display = "none";
+
+document.getElementById("calculate").onclick = function() {
+  calculateTip();
+
+};
+</script>
+<br /><h1 style="text-align: left;">
+TIP Calculator Online Tool:</h1><div class="separator" style="clear: both; text-align: center;"><a href="https://1.bp.blogspot.com/-SMNmRc-bP9c/YQ-5GxrevhI/AAAAAAAAALs/TC28Kc7zN5wKNZ_br7wd_PjzllKQN8FOQCLcBGAsYHQ/s859/tip.png" style="margin-left: 1em; margin-right: 1em;"><img alt="TIP Calculator Online Tool" border="0" data-original-height="522" data-original-width="859" height="388" src="https://1.bp.blogspot.com/-SMNmRc-bP9c/YQ-5GxrevhI/AAAAAAAAALs/TC28Kc7zN5wKNZ_br7wd_PjzllKQN8FOQCLcBGAsYHQ/w640-h388/tip.png" title="TIP Calculator Online Tool" width="640" /></a></div><br /><div><br /></div><h2 style="text-align: left;">An explanation of the concept of a "TIP Calculator"<span><!--more--></span></h2><div>Services are compensated with a little sum of money (as by a waiter) It is a little sum of money that is given to specific service employees in exchange for a service rendered.</div><div><br /></div><div>Varied areas of the world have different numbers of tips and acceptance rates. Tip-giving is frowned upon in several East Asian nations like Japan. For example, in the United States, penalties are commonly expected, and service employees may be compensated to reach the minimum wage in many instances. It is possible to apply the grant automatically to the loan amount in the U.S. or any other nation where tips are anticipated, depending on the restaurant or number of enthusiasts at the table.&nbsp;The actions taken by a U.S. citizen who is visiting another country may have a different impact than the words said.</div><div><br /></div><div><br /></div>

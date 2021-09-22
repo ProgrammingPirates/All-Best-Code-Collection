@@ -1,0 +1,51 @@
+<div class="etool-title">
+<link href="https://docs.google.com/uc?export=download&amp;id=1ZVFfFPy_Ry6S0kUo5U8NzoaHqW2MWRVr" rel="stylesheet" type="text/css"></link>
+
+<h3>
+Voice To Text Generating Tool</h3>
+</div>
+<div class="etool-wrapper" style="border: 1px solid rgb(255, 0, 0);">
+<div id="info" style="color: red; font-size: 16px; padding: 3px 6px;">
+<div id="info_start">
+Click on the microphone icon and start speaking.
+ </div>
+<div id="info_speak_now" style="display: none;">
+Speak now || Hindi/Urdu !
+ </div>
+<div id="info_no_speech" style="display: none;">
+No speech was detected. adjust your microphone settings.
+ </div>
+<div id="info_no_microphone" style="display: none;">
+No microphone.! Ensure that a microphone configured correctly.
+ </div>
+<div id="info_allow" style="display: none;">
+Click the "Allow" button above to enable your microphone.
+ </div>
+<div id="info_denied" style="display: none;">
+Permission to use microphone was denied.
+ </div>
+<div id="info_blocked" style="display: none;">
+Permission to use microphone is blocked. To change, go to chrome://settings/contentExceptions#media-stream
+ </div>
+<div id="info_upgrade" style="display: none;">
+This facility is not supported by your browser. Upgrade to <a href="https://www.google.com/chrome" target="_blank">Chrome</a>.
+ </div>
+</div>
+<div class="flex-box">
+<select id="select_language" onchange="updateCountry()" style="margin: 1px 0px; padding: 0px;"></select>
+<select id="select_dialect" style="margin: 1px 0px; padding: 0px;"></select>
+<button id="start_button" onclick="startButton(event)" style="background: rgb(255, 255, 255); padding: 0px;" title="Click and Start Speaking"><img alt="Start" height="30" id="start_img" src="https://www.google.com/intl/en/chrome/assets/common/images/content/mic.gif" width="64" /></button>
+</div>
+<div id="results" style="background: rgb(255, 255, 255); border: 1px solid skyblue; margin: 5px; min-height: 180px; padding: 5px; text-align: left;">
+<span class="final" id="final_span" style="color: blue; padding-right: 3px;"></span> <span class="interim" id="interim_span" style="color: red;"></span>
+</div>
+<div class="etool-button-wrapper flex-box">
+<button class="etool-button" id="button1" onclick="ToClipboard('results')" title="Copy Text"><i aria-hidden="true" class="fa fa-files-o"></i> Copy</button>
+<button class="etool-button" id="email_button" onclick="emailButton()" title="Send through Email"><i aria-hidden="true" class="fa fa-envelope"></i> Send Email</button>
+<button class="etool-button" name="download" onclick="saveTextAsUnicode();" title="Download Text"><i aria-hidden="true" class="fa fa-download"></i> Download Text</button>
+</div>
+<script src="https://dl.dropbox.com/s/07a7qmtn09z2luo/Voice-Typing_API.js"></script>
+</div>
+
+<br /><br /><h1 style="text-align: center;">
+Xoom Voice To Text Typing Tool:</h1><div class="separator" style="clear: both; text-align: center;"><a href="https://1.bp.blogspot.com/-DsY9H9Obtb8/YQ0FaoMgD1I/AAAAAAAAAF4/gCH3CwVmYrEJ6hwxt57T9AZamu2OPG3QQCLcBGAsYHQ/s920/1111111.png" style="margin-left: 1em; margin-right: 1em;"><img alt="Xoom Voice To Text Generator Tool" border="0" data-original-height="502" data-original-width="920" height="350" src="https://1.bp.blogspot.com/-DsY9H9Obtb8/YQ0FaoMgD1I/AAAAAAAAAF4/gCH3CwVmYrEJ6hwxt57T9AZamu2OPG3QQCLcBGAsYHQ/w640-h350/1111111.png" title="Xoom Voice To Text Generator Tool" width="640" /></a></div><div><br /></div><div style="text-align: center;">Xoom Voice To Text Typing &amp; Converting Free Tool for Dictation and Typing that is Distraction-Free, Fast, and Easy to Use.</div><div><div style="text-align: center;"><br /></div><div style="text-align: center;">A speech-enabled online notepad, Xoom Voice To Text Typing Free Tool&nbsp;has a simple &amp; efficient design that allows you to focus on your thoughts.</div><div style="text-align: center;">As part of our commitment to providing the finest online dictation tool, we employ the most advanced speech-recognition technology available, as well as built-in features (automatic or manual) to enhance users' efficiency, productivity, and comfort.</div><div style="text-align: center;"><br /></div><div style="text-align: center;">Chrome browser required. Download, installation, and registration are not required; you may begin working immediately.</div></div><div style="text-align: center;"><br /></div><div><div style="text-align: center;">Xoom Voice To Text Typing Free Tool is meant to keep you focused on your work.</div><div style="text-align: center;">Every note begins with a fresh sheet of white paper, in order to give your thoughts a fresh, clean start.. By fading away all other aspects but the words, you can focus on the most essential portion - your own originality.</div><div style="text-align: center;">It also allows you to think and express yourself smoothly, without interruption, which again fosters clear, creative thinking. The app's fonts and colors were intended to be crisp and legible.</div></div><div style="text-align: center;"><br /></div><div style="text-align: center;">Voice To Text Typing Free Tool&nbsp;&nbsp;is a free service that is equivalent to Dragon Naturally Speaking in terms of accuracy. Many of you have told us that it performs better than Dragon in various respects. Voice To Text Typing Free Tool&nbsp;, on the other hand, is a dictation-only alternative to Dragon, and is not intended to be used for voice-controlling other software or voice-typing within other software applications. As previously mentioned, Dragon possesses these extra powers. You'll find Voice To Text Typing Free Tool&nbsp;&nbsp;not just cheaper, but maybe even more convenient if you need to dictate an article.</div><div style="text-align: center;"><br /></div><div><div style="text-align: center;">Many of us find that key-typing takes a long time. It is possible to type at the pace of speech with Voice To Text Typing Free Tool&nbsp;(slow &amp; clear speech).</div><div style="text-align: center;">Using Voice To Text Typing Free Tool, you may effortlessly transition from voice-typing (dictation) to key-typing. Dictate as needed and type as needed. Text results can be edited immediately once they've been dictated. Not even dictation needs to be stopped to navigate between app modes.</div><div style="text-align: center;">By using voice instructions or a single click, you may add punctuation marks to your document.</div></div><div style="text-align: center;"><br /></div><div><h2 style="text-align: center;">Voice typing has health benefits</h2><div style="text-align: center;">Different kinds of Computer Related Repetitive Strain Injuries can be caused by just sitting in front of a computer for extended periods of time (RSI). Long lengths of time spent in front of a computer should be avoided. Nevertheless, if you must, you must be especially careful with your posture. Visit the RSIS website for additional information. In order to reduce these dangers, voice typing is one of the most suggested methods, as it allows you to sit back comfortably, freeing up your arms as well as your shoulders, back, and neck. Once you've completed dictating for corrections and editing, you may resume typing.</div></div>

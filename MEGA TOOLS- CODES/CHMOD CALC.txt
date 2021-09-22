@@ -1,0 +1,60 @@
+<form name="chmodcalc">
+<input name="hspecial" type="hidden">
+<input name="huser" type="hidden">
+<input name="hgroup" type="hidden">
+<input name="hother" type="hidden">
+<table bgcolor="#c3d9ff" cellpadding="5" cellspacing="2" align=center>
+<tr><td colspan="6">
+<center><font face="Verdana" size="3"><b>4-digit Chmod Calculator</b></font></center>
+</td></tr>
+<tr align="center"><td colspan="2"><font face="Verdana" size="2"><b>Special</b></font></td>
+<td><font face="Verdana" size="2"><b>Permission</b></font></td>
+<td><font face="Verdana" size="2"><b>User</b></font></td>
+<td><font face="Verdana" size="2"><b>Group</b></font></td>
+<td><font face="Verdana" size="2"><b>Other</bgt;<font></td>
+</tr><tr align="center">
+<td><font face="Verdana" size="2"><b>SUID</b></font></td>
+<td><input type="checkbox" name="special4" value="4" onclick="calculator('special', 4)"></td>
+<td><font face="Verdana" size="2"><b>Read</b></font></td>
+<td><input type="checkbox" name="user4" value="4" onclick="calculator('user', 4)"></td>
+<td><input type="checkbox" name="group4" value="4" onclick="calculator('group', 4)"></td>
+<td><input type="checkbox" name="other4" value="4" onclick="calculator('other', 4)"></td>
+</tr><tr align="center">
+<td><font face="Verdana" size="2"><b>SGID</b></font></td>
+<td><input type="checkbox" name="special2" value="2" onclick="calculator('special', 2)"></td>
+<td><font face="Verdana" size="2"><b>Write</b><font></td>
+<td><input type="checkbox" name="user2" value="2" onclick="calculator('user', 2)"></td>
+<td><input type="checkbox" name="group2" value="2" onclick="calculator('group', 2)"></td>
+<td><input type="checkbox" name="other2" value="2" onclick="calculator('other', 2)"></td>
+</tr><tr align="center">
+<td><font face="Verdana" size="2"><b>Sticky<b></font></td>
+<td><input type="checkbox" name="special1" value="1" onclick="calculator('special', 1)"></td>
+<td><font face="Verdana" size="2"><b>Execute</b></font></td>
+<td><input type="checkbox" name="user1" value="1" onclick="calculator('user', 1)"></td>
+<td><input type="checkbox" name="group1" value="1" onclick="calculator('group', 1)"></td>
+<td><input type="checkbox" name="other1" value="1" onclick="calculator('other', 1)"></td>
+</tr><tr align="center">
+<td><font face="Verdana" size="2"><b>Value</b></font></td>
+<td><input type="text" name="tspecial" size="1"></td>
+<td></td>
+<td><input type="text" name="tuser" size="1"></td>
+<td><input type="text" name="tgroup" size="1"></td>
+<td><input type="text" name="tother" size="1"></td>
+</tr>
+<tr><td colspan=6 align=center><div style="font-size: 10px;color: #dadada;" id="dumdiv">
+<a href="https://www.emexee.com" id="dum" style="text-decoration:none;color: dadada;"></a></div></tr>
+</table>
+</form>
+
+<!-- Script by hscripts.com -->
+<!-- More scripts @www.hscripts.com -->
+<script type="text/javascript">
+function calculator(usert, number)
+{if (usert == "special" && number == "4") var getval = eval("document.chmodcalc.special4");if (usert == "special" && number == "2") var getval = eval("document.chmodcalc.special2");if (usert == "special" && number == "1") var getval = eval("document.chmodcalc.special1");if (usert == "user" && number == "4") var getval = eval("document.chmodcalc.user4");if (usert == "user" && number == "2") var getval = eval("document.chmodcalc.user2");if (usert == "user" && number == "1") var getval = eval("document.chmodcalc.user1");if (usert == "group" && number == "4") var getval = eval("document.chmodcalc.group4");if (usert == "group" && number == "2") var getval = eval("document.chmodcalc.group2");if (usert == "group" && number == "1") var getval = eval("document.chmodcalc.group1");if (usert == "other" && number == "4") var getval = eval("document.chmodcalc.other4");if (usert == "other" && number == "2") var getval = eval("document.chmodcalc.other2");if (usert == "other" && number == "1") var getval = eval("document.chmodcalc.other1");if (usert == "special"){if(getval.checked){document.chmodcalc.hspecial.value += ("+number");var a= (document.chmodcalc.hspecial.value);var b= eval(a);document.chmodcalc.hspecial.value=b;document.chmodcalc.tspecial.value=b;} else {if (document.chmodcalc.hspecial.value == ""){ document.chmodcalc.tspecial.value=""; } else {var a=(document.chmodcalc.hspecial.value);b=a-(number);c=eval(b);document.chmodcalc.hspecial.value=c;document.chmodcalc.tspecial.value=c;}}}if(usert == "user"){if(getval.checked){document.chmodcalc.huser.value += ("+number");var a= (document.chmodcalc.huser.value);var b= eval(a);document.chmodcalc.huser.value=b;document.chmodcalc.tuser.value=b;} else {if (document.chmodcalc.huser.value == ""){ document.chmodcalc.tuser.value=""; } else {var a=(document.chmodcalc.huser.value);b=a-(number);c=eval(b);document.chmodcalc.huser.value=c;document.chmodcalc.tuser.value=c;
+}}}if (usert == "group"){if(getval.checked){document.chmodcalc.hgroup.value += ("+number");var a= (document.chmodcalc.hgroup.value);var b= eval(a);document.chmodcalc.hgroup.value=b;document.chmodcalc.tgroup.value=b;} else {if (document.chmodcalc.hgroup.value == ""){ document.chmodcalc.tgroup.value=""; } else {var a=(document.chmodcalc.hgroup.value);b=a-(number);c=eval(b);document.chmodcalc.hgroup.value=c;document.chmodcalc.tgroup.value=c; }}}if (usert == "other"){if(getval.checked){document.chmodcalc.hother.value += ("+number");var a= (document.chmodcalc.hother.value);var b= eval(a);document.chmodcalc.hother.value=b;document.chmodcalc.tother.value=b;} else {if (document.chmodcalc.hother.value == ""){
+document.chmodcalc.tother.value=""; } else {var a=(document.chmodcalc.hother.value);b=a-(number);c=eval(b);document.chmodcalc.hother.value=c;document.chmodcalc.tother.value=c; }}}if(eval('document.chmodcalc.tspecial.value')==0) document.chmodcalc.tspecial.value='';if(eval('document.chmodcalc.tuser.value')==0) document.chmodcalc.tuser.value='';if(eval('document.chmodcalc.tgroup.value')==0) document.chmodcalc.tgroup.value='';if(eval('document.chmodcalc.tother.value')==0) document.chmodcalc.tother.value='';
+}
+function ctck()
+{var sds = document.getElementById("dum");if(sds == null){alert("You are using a free package.\n You are not allowed to remove the tag.\n");}var sdss = document.getElementById("dumdiv");if(sdss == null){alert("You are using a free package.\n You are not allowed to remove the tag.\n");}
+}
+document.onload="ctck()";</script>

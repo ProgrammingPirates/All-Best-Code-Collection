@@ -1,0 +1,132 @@
+
+<html>
+<title>All Format HD YouTube Video Downloader</title>
+<head>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport"></meta>
+	<meta content="Free online YouTube video downloader to download YouTube videos in MP4 in HD quality with high download speed." name="description"></meta>
+	<meta content="index,follow" name="robots"></meta>
+	<meta content="Free online YouTube video downloader to download YouTube videos in MP4 in HD quality with high download speed." name="keywords"></meta>
+     <meta content="text/html;charset=utf-8" http-equiv="Content-Type"></meta>
+	 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" rel="stylesheet"></link>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"></link>
+  <link href="favicon.png" rel="icon" sizes="16x16" type="image/png"></link>
+  <style>
+  * {
+margin: 0;
+padding: 0;
+}
+
+.mt-5, .my-5 {
+    margin-top: 0rem!important;
+}
+
+#hd {    
+  width:100%;    
+  height:390px;      
+  margin:0 0 50px 0;    
+  }  
+
+
+.custom-shape-divider-bottom-1610026357 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(0deg);
+}
+
+.custom-shape-divider-bottom-1610026357 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 0px;
+}
+
+.custom-shape-divider-bottom-1610026357 .shape-fill {
+    fill: #FFFFFF;
+}
+  
+  </style>
+</head>
+<body>
+<div style="background-image: linear-gradient(to right, #fff, #fff); min-height: 99vh; position: relative;">
+         
+<div id="hd">    
+  
+
+<div class="col-md-6 offset-md-3 mt-5">
+    <div class="card">
+      <div class="card-header bg-info">
+        <center><h5>All HD Format YouTube Free Video Downloader</h5>
+      </center></div>
+      <div class="card-body">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="form-group">
+              <label class="text-weight"><b>Enter YouTube Video Link:</b></label>
+              <input class="form-control link" name="link" required="" type="txt" />
+            </div>
+          </div>
+        </div>
+        <form class="form-download">
+          <div class="row">
+            <div class="col-md-12">
+              <div class="form-group">
+                <label class="text-weight"><b>Select Video Format:</b></label>
+                <select class="form-control formte" required="">
+                  <option disabled="" selected="">Select Video Formate</option>
+                  <option value="mp3">Mp3</option>
+                  <option value="mp4a">144 Mp4</option>
+                  <option value="360">360 Mp4</option>
+                  <option value="480">480 Mp4</option>
+                  <option value="720">720 Mp4</option>
+                  <option value="1080">1080 Mp4</option>
+                  <option value="4k">4k Mp4</option>
+                  <option value="8k">8k Mp4</option>
+                </select>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-12">
+              <div class="form-group mt-4 download-video">
+                <button class="btn btn-success btn-block click-btn-down" type="submit">Download Click Here</button>
+              </div>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+
+	   
+
+<div class="custom-shape-divider-bottom-1610026357">
+    <svg data-name="Layer 1" preserveaspectratio="none" viewbox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg">
+        <path class="shape-fill" d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z"></path>
+    </svg>
+</div>
+</div>
+
+</div></body>
+
+<script type="text/javascript">
+  $(".click-btn-down").click(function(){
+      var link = $(".link").val();
+    var fromate = $(".formte").children("option:selected").val();
+    var src =""+link+"="+fromate+"";
+    downloadVideo(link,fromate);
+  });
+  function downloadVideo(link,fromate) {
+      $('.download-video').html('<iframe style="width:100%;height:60px;border:0;overflow:hidden;" scrolling="no" src="https://loader.to/api/button/?url='+link+'&f='+fromate+'"></iframe>');
+  }
+</script>
+
+<br /><br /><h1 style="text-align: left;">
+All Format HD YouTube Video Downloader:</h1><div><div class="separator" style="clear: both; text-align: center;"><a href="https://1.bp.blogspot.com/-nL1e8ZK1BxE/YQ4i6yn8sRI/AAAAAAAAAHA/tRkP8JwXURYsU1Vw60mrlBoIOChmZo7oQCLcBGAsYHQ/s969/112.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="All Format HD YouTube Video Downloader" border="0" data-original-height="518" data-original-width="969" height="342" src="https://1.bp.blogspot.com/-nL1e8ZK1BxE/YQ4i6yn8sRI/AAAAAAAAAHA/tRkP8JwXURYsU1Vw60mrlBoIOChmZo7oQCLcBGAsYHQ/w640-h342/112.png" title="All Format HD YouTube Video Downloader" width="640" /></a></div><br /><div><br /></div><div>All Format HD YouTube Video Downloader Online Tool to download any kind of video from YouTube directly and save it in your computer. You can watch the raw file or edit them yourself for various purposes like posting on Facebook, sharing email address etc...</div><div><br /></div><div>All Format HD YouTube Video Downloader Online Tool which works for downloading and managing videos from YouTube. It includes many formats such as "MP3 - MP4 low quality- MP4 HD videos", etc, a preview of your selected video before it downloads the rest of the files in one go.</div><div><br /></div><h2 style="text-align: left;">Features:&nbsp;</h2></div><div><h3 style="text-align: left;">All Format HD YouTube Video Downloader online tool features:</h3><div>'No Flash on Web, All I Need is a Browser'. You can download the video directly from your PC without downloading and re-installing any software.&nbsp;</div><div><br /></div><div><ul style="text-align: left;"><li><b>Simply copy video URL from YouTube 'Video'</b></li><li><b>Paste it in 'Paste URL section'</b></li><li><b>Select video format</b></li><li><b>Click on 'Downloads'</b></li></ul></div><div>Then click save as when finished using it to start playing or continue watching what's shown up there!</div></div><div><br /></div><div>All Format HD YouTube Video Downloader Online Tool convert videos, MP3 files, MP4's format and all your favorite formats all other types of audio source like mp3, xvid etc..&nbsp;</div><div>The file name will be converted properly into the download folder so you don't have any confusion on which video was downloaded at what speed or with how many people is in it.</div><div><br /></div><div>All Format HD YouTube Video Downloader Online Tool allows you to download and convert YouTube videos and audios online for free in the highest possible quality via the internet. Without registration, All Format HD YouTube Video Downloader Online Tool&nbsp;allows you to download an infinite number of YouTube videos. There are several websites that provide direct access to thousands of films and audio files that may be simply converted and downloaded. Everything from MP3 to FLV to WEBM to 3GP to WMV to AVI and more is supported - and it's all free!</div>
+</html>

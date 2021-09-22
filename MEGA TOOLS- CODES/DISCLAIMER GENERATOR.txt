@@ -1,0 +1,197 @@
+<!-- The Modal -->
+<div class="modal" id="Contact-Us">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+
+      <!-- Modal Header -->
+      <div class="modal-header">
+       
+        
+      </div>
+
+      <!-- Modal body -->
+      <div class="modal-body">
+        
+   
+
+<center>
+<div dir="ltr" style="text-align: center;" trbidi="on">
+<style> 
+
+body {
+  background-color:black;
+  color:brown;
+}
+input[type="text"],
+textarea {-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box;width:100%; border: 5px dotted #5A4D73;outline-color:#5A4D73;
+
+}
+
+#techdiscovers {
+ padding: 10px 16px 10px;
+ 
+ text-align: center;
+ border: 5px solid #ccc;
+}
+
+input[type="text"] { color: #333;
+ padding: 10px;
+ font-size: 16px;
+ font-family: PT Sans, sans-serif;
+ border: 5px solid #EEE;
+ margin: 3px auto ;
+ border-radius: 3px;
+ width: 89%;
+
+
+}
+
+          input[ TYPE="reset"
+          ],
+input[type="button"] {
+ background-color: #FF8A94;
+ border: #5A4D73 solid 10px;
+ color: #FFF;
+ cursor: pointer;
+ padding:6px 6px 6px 6px ;
+ font-size:25px;
+ width:30%;
+ margin: 15px auto ; cursor: pointer; margin-left: 15px;
+}
+ 
+ select {
+   
+   font-size:14px; background-color: #FF8A94;  padding:5px 7px; border:5px solid #e7dab0; radius: 5px; -webkit-border-radius: 5px;border-radius: 5px 5px; 
+}
+         
+         
+      .heading{background-color: #FF8A94; 
+background-repeat: no-repeat no-repeat;
+color:#fff; font-family: Roboto, 'Ubuntu', Times, serif; font-size: 25px; line-height:0px; margin-bottom: 1.571em; padding: 20px 20px 20px 45px; }
+          
+         </style> 
+
+
+<div class="heading"><h1>Xoom Disclaimer Page Generator Tool</h1>
+
+<b style="margin: 0px; text-align: center; padding: 0px;"></b>
+Genrate disclaimer for your blog, website or business for free.
+</div>
+
+         
+         <script language="JavaScript">
+         
+   
+         
+         <!-- Begin
+         function create(form) {
+          
+             
+             if (form.input4.value != "") {
+               form.story.value +="<h1>Disclaimer for \"" +
+               form.input4.value + "\"</h1>If you require any more information or have any questions about our site's disclaimer, please feel free to contact us by email at\n";
+             }
+             
+             if (form.input10.value != "") {
+               form.story.value +="\" " +
+               form.input10.value + "\" \n";
+             }
+
+
+
+if (form.input4.value != "") {
+               form.story.value +="<h1>Disclaimer for\" " +
+               form.input4.value + "\" \n";
+             }
+
+
+  
+if (form.input2.value != "") {
+               form.story.value +="</h1>All the information on this website -\" " +
+               form.input2.value + "\" \n";
+             }
+
+
+
+if (form.input2.value != "") {
+               form.story.value +="is published in good faith and for general information purpose only.\" " +
+               form.input2.value + "\" \n";
+             }
+  if (form.input4.value != "") {
+               form.story.value +="     does not make any warranties about the completeness, reliability and accuracy of this information. Any action you take upon the information you find on this website , is strictly at your own risk.  \"" +
+               form.input4.value + "\"<br><br>will not be liable for any losses and/or damages in connection with the use of our website.From our website, you can visit other websites by following hyperlinks to such external sites. While we strive to provide only quality links to useful and ethical websites, we have no control over the content and nature of these sites. These links to other websites do not imply a recommendation for all the content found on these sites. Site owners and content may change without notice and may occur before we have the opportunity to remove a link which may have gone 'bad'.<br>Please be also aware that when you leave our website, other sites may have different privacy policies and terms which are beyond our control. Please be sure to check the Privacy Policies of these sites as well as their Terms of Service before engaging in any business or uploading any information.<br><br><h1>Consent</h1><br>By using our website, you hereby consent to our disclaimer and agree to its terms.<br><br><h1>Update</h1><br>Should we update, amend or make any changes to this document, those changes will be prominently posted here.\n";
+             } 
+ 
+
+
+
+
+
+ 
+           
+
+
+
+
+
+ 
+             
+              var copyText = document.getElementById("myInput");
+  copyText.select();
+  copyText.setSelectionRange(0, 99999)
+  document.execCommand("copy");
+ 
+             
+             
+             
+           }
+         
+         //  End -->
+         </script>
+         
+         </div>
+          
+      
+         
+         <div align="center">
+           <center>
+             <div align="left">
+</div>
+
+           
+             <td>
+<form>
+               <div align="center">
+<center>
+<table border="0" cellpadding="1" class="normal">
+
+
+<tr>
+                   <td>Website URL</td>
+                   <td><input name="input2" size="90" type="text" placeholder="website Url"/></td>
+                 </tr>
+<tr>
+                   <td>Website name</td>
+                   <td><input name="input4" size="90" type="text" placeholder="website Name"/></td>
+                 </tr>
+
+
+<!-- Designer =
+Webmaster -->
+<tr>
+                  
+                  <td>Email Id:</td>
+                   <td><input name="input10" size="90" type="text" placeholder="Email Id"/></td>
+                 </tr>
+
+</table>
+</center>
+</div><center>
+<input onclick="create(this.form)" type="button" value="Genrate link" /> <input br="" type="reset" value="Reset" /> <textarea cols="90" name="story" rows="18" wrap="" id="myInput"></textarea>
+             
+             
+</center></form>
+</td>
+</center>
+</div>
+<br />

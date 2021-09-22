@@ -1,0 +1,72 @@
+<!--Script by hscripts.com-->
+<!-- Free javascripts @ https://www.hscripts.com -->
+<script type="text/javascript">
+function checnum(as)
+{
+var a = as.value;
+for(var x=0; x<a.length; x++)
+{
+var ff = a[x];
+if(isNaN(a) || ff==" ")
+{
+a = a.substring(0,(a.length-1));
+as.value = a;
+}}}
+function getCheckedValue( groupName ) {
+var radios = document.getElementsByName( groupName );
+for( i = 0; i < radios.length; i++ ) {
+if( radios[i].checked ) {
+return radios[i].value;
+}
+}
+return null;
+}
+function tqe_perc()
+{
+var sds = document.getElementById("dum");
+if(sds == null){
+alert("You are using a free package.\n You are not allowed to remove the copyright.\n");
+}
+var sdss = document.getElementById("dumdiv");
+if(sdss == null){
+alert("You are using a free package.\n You are not allowed to remove the copyright.\n");
+}
+if(sdss != null)
+{
+var totamount=0;
+var p1= document.getElementById("amount").value;
+var age1=document.getElementById("age").value;
+if(age1=="")
+document.getElementById("err_msg").innerHTML="<font color='red'><b>Enter the current age</b></font>";
+else if(p1=="")
+document.getElementById("err_msg").innerHTML="<font color='red'><b>Enter the premium payable</b></font>"
+else
+{
+document.getElementById("err_msg").innerHTML="";
+var p= parseFloat(p1);
+var age= parseFloat(age1);
+var y= parseFloat(getCheckedValue("year"));
+var t=getCheckedValue("t")
+if(p==""||age==""||y=="")
+{
+alert("enter the amount,interstand year");
+}
+else
+{
+if(t=="Yearly")
+{
+totamount=(y*p)+(y*500*41);
+document.getElementById("r1").value=totamount;
+}
+else
+{
+totamount=(p*12*y)+(y*500*41);
+document.getElementById("r1").value=totamount;
+}
+}
+}
+}
+//alert(totamount+(p*y*6/100));
+}
+</script>
+<!-- Script by hscripts.com -->

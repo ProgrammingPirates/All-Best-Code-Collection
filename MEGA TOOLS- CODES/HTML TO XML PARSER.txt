@@ -1,0 +1,92 @@
+&lt;style scoped=&quot;&quot; type=&quot;text/css&quot;&gt;
+
+#parser2{position:relative;overflow:hidden}
+
+#parser2 .btn,#parser2 .btn:active{background-image:none}
+
+#parser2 .btn{font-weight:400;padding:6px 12px;margin-bottom:5px;font-size:14px;line-height:1.42857143;text-align:center;white-space:nowrap;-ms-touch-action:manipulation;touch-action:manipulation;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;border:0;border-radius:4px;cursor:pointer;transition:all .3s}
+
+#parser2 .btn:active:focus,#parser2 .btn:focus{outline:0}
+
+#parser2 .btn:focus,#parser2 .btn:hover{color:#333;text-decoration:none;outline:0}
+
+#parser2 .btn:active{outline:0;-webkit-box-shadow:inset 0 3px 5px rgba(0,0,0,.125);box-shadow:inset 0 3px 5px rgba(0,0,0,.125)}
+
+#parser2 .btn-primary{color:#fff;background:#3e51b5}
+
+#parser2 .btn-primary:focus,.button-group button:disabled{color:#fff;background:#286090}
+
+#parser2 .btn-primary:active,#parser2 .btn-primary:hover{color:#fff;opacity:.9}
+
+#parser2 .btn-danger{color:#fff;background:#f39c12}
+
+#parser2 .btn-danger:focus{color:#fff;opacity:.9}
+
+#parser2 .btn-danger:active,#parser2 .btn-danger:hover{color:#fff;opacity:.9}
+
+#parser2 .btn-info{color:#fff;background:#5bc0de}
+
+#parser2 .btn-info:focus{color:#fff;background:#31b0d5}
+
+#parser2 .btn-info:active,#parser2 .btn-info:hover{color:#fff;background:#31b0d5}
+
+#parser2 .btn-xs{font-size:12px;line-height:1.5;border-radius:3px;padding:1px 5px}
+
+#parser2 textarea#somewhere{background:#f7f7f7;border:0;height:300px;width:100%;margin:0 0 10px;box-sizing:border-box;font-family:Consolas,Monaco,&#039;Andale Mono&#039;,monospace;color:#111;border-radius:10px;box-shadow:inset 0 -5px 5px rgba(0,0,0,0.05);padding:20px}
+
+#parser2 textarea#somewhere:active,#parser2 textarea#somewhere:focus{outline:0}
+
+#parser2 .btn-sm{display:inline-block;font-size:13px;line-height:1.5;border-radius:5px;padding:12px;margin:0 auto 10px auto;width:30%;box-shadow:0 3px 1.2rem -0.8rem rgba(0,0,0,0.8)}
+
+#parser2 .btn-xs{font-size:13px;line-height:1.5;border-radius:5px;padding:12px;margin:auto;width:30%;box-shadow:0 3px 1.2rem -0.8rem rgba(0,0,0,0.8)}
+
+.collapse{display:none}
+
+.alert-success{color:#222;background:#fff}
+
+.alert{border:0;padding:5px 15px;border-radius:10px;position:absolute;top:20px;right:20px;min-width:210px;color:#0984e3;font-size:13px;box-shadow:0 2px 4px 0 rgba(0,0,0,0.16)}
+
+button.close{padding:0;cursor:pointer;background:none;border:0;-webkit-appearance:none}
+
+.close{float:right;font-size:1.3rem;color:#0984e3;margin:1px 0 0 0}
+
+button.close:focus{outline:0}
+
+.close:hover{opacity:1!important}
+
+#btnInfo h4{margin:0;font-size:13px;line-height:2}
+
+#button-link{display:none}
+
+.clear{clear:both;display:block;margin-bottom:2px}
+
+.alert br{display:none}
+
+&lt;/style&gt;
+
+&lt;div id=&quot;parser2&quot;&gt;
+
+   &lt;textarea id=&quot;somewhere&quot; placeholder=&quot;Write/paste the code here then click the Parse Code button&quot;&gt;&lt;/textarea&gt;
+
+   &lt;div class=&quot;alert alert-success margin-bottom-20 collapse&quot; id=&quot;btnInfo&quot; role=&quot;alert&quot;&gt;
+
+      &lt;button class=&quot;close close-copy&quot; onclick=&quot;document.getElementById(&amp;quot;btnInfo&amp;quot;).style.display = &amp;quot;none&amp;quot;;cdClear();&quot; type=&quot;button&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;×&lt;/span&gt;&lt;/button&gt; 
+
+      &lt;h4&gt;Code copied to clipboard&lt;/h4&gt;
+
+   &lt;/div&gt;
+
+   &lt;br /&gt; &lt;button class=&quot;btn btn-primary btn-sm btn-parse&quot; onclick=&quot;convert();&quot; type=&quot;button&quot;&gt;Parse Code&lt;/button&gt; 
+
+   &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+
+   &lt;button class=&quot;btn button-link btn-xs btn-info&quot; data-clipboard-action=&quot;copy&quot; data-clipboard-target=&quot;#somewhere&quot; id=&quot;button-link&quot; type=&quot;submit&quot;&gt;Copy code to clipboard&lt;/button&gt; &lt;button class=&quot;btn btn-danger btn-xs&quot; id=&quot;btn_clear&quot; onclick=&quot;cdClear();&quot;&gt;Clean&lt;/button&gt; 
+
+&lt;/div&gt;
+
+&lt;script type=&quot;text/javascript&quot;&gt;//&lt;![CDATA[
+
+function downloadJSAtOnload(){var d=document.createElement(&quot;script&quot;);d.src=&quot;https://cdn.jsdelivr.net/gh/Arlina-Design/redvision@master/htmlparse.js&quot;,document.body.appendChild(d)}window.addEventListener?window.addEventListener(&quot;load&quot;,downloadJSAtOnload,!1):window.attachEvent?window.attachEvent(&quot;onload&quot;,downloadJSAtOnload):window.onload=downloadJSAtOnload;
+
+//]]&gt;&lt;/script&gt;
+&lt;br /&gt;

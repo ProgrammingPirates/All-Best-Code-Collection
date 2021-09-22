@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<?xml version="1.0" encoding="UTF-8"?>
+<head>
+<title>Age Calculator</title>
+<meta name="Description" content="#">
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<center>
+<script>
+var mS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+var dat = new Date();
+var curday = dat.getDate();
+var curmon = dat.getMonth() + 1;
+var curyear = dat.getFullYear();
+var startyear =  dat.getFullYear()-100;
+var endyear = dat.getFullYear();
+function checkleapyear(datea) {
+    if (datea.getYear() % 4 == 0) {
+        if (datea.getYear() % 10 != 0) {
+            return true;
+        } else {
+            if (datea.getYear() % 400 == 0) return true;
+            else return false;
+        }
+    }
+    return false;
+}
+
+function DaysInMonth(Y, M) {
+    with(new Date(Y, M, 1, 12)) {
+        setDate(0);
+        return getDate();
+    }
+}
+
+function datediff(date1, date2) {
+    var y1 = date1.getFullYear(),
+        m1 = date1.getMonth(),
+        d1 = date1.getDate(),
+        y2 = date2.getFullYear(),
+        m2 = date2.getMonth(),
+        d2 = date2.getDate();
+    if (d1 < d2) {
+        m1--;
+        d1 += DaysInMonth(y2, m2);
+    }
+    if (m1 < m2) {
+        y1--;
+        m1 += 12;
+    }
+    return [y1 - y2, m1 - m2, d1 - d2];
+}
+
+function calage() {
+    var calday = document.birthday.day.options[document.birthday.day.selectedIndex].value;
+    var calmon = document.birthday.month.options[document.birthday.month.selectedIndex].value;
+    var calyear = document.birthday.year.options[document.birthday.year.selectedIndex].value;
+    if (curday == "" || curmon == "" || curyear == "" || calday == "" || calmon == "" || calyear == "") {
+        alert("please fill all the values..!!");
+    } else {
+        var curd = new Date(curyear, curmon - 1, curday);
+        var cald = new Date(calyear, calmon - 1, calday);
+        
+        var diff = Date.UTC(curyear, curmon, curday, 0, 0, 0) - Date.UTC(calyear, calmon, calday, 0, 0, 0);
+        var dife = datediff(curd, cald);
+        document.birthday.age.value = dife[0] + " years, " + dife[1] + " months, and " + dife[2] + " days";
+        var monleft = (dife[0] * 12) + dife[1];
+        var secleft = diff / 1000 / 60;
+        var hrsleft = (secleft / 60);
+        var daysleft = (hrsleft / 24);
+        document.birthday.months.value = monleft + " Month since your birth";
+        document.birthday.daa.value = daysleft + " days since your birth";
+        document.birthday.hours.value = hrsleft + " hours since your birth";
+        document.birthday.min.value = secleft + " minutes since your birth";
+        document.birthday.sec.value = (secleft*60) + " seconds since your birth";
+        var as = parseInt(calyear) + dife[0] + 1;
+        var diff = Date.UTC(as, calmon, calday, 0, 0, 0) - Date.UTC(curyear, curmon, curday, 0, 0, 0);
+        var datee = diff / 1000 / 60 / 60 / 24;
+        document.birthday.nbday.value = datee + " days left for your next birthday";
+    }
+}
+</script>
+<h1>Age Calculator</h1>
+<p>Advance Age Calculator - Calculate your age in years, months, days, hours, minutes, seconds</p>
+<table width="320px;;" border="0" cellspacing="0" cellpadding="0">
+   <tbody>
+      <tr>
+         <td>
+<p><b>Select Date of Birth:</b></p>
+            <form name="birthday">
+               <span class="date">Date</span>&nbsp;<b>:</b>&nbsp;
+               <select name="day" size="1" >
+                  <script type="text/javascript">for(var j=1;j<32;j++)document.write("<option value="+j+">"+j+"</option>");</script>
+               </select>
+
+               <span class="date">Month</span>&nbsp;<b >:</b>&nbsp;
+               <select name="month" size="1" >
+                  <script type="text/javascript">for(var i=1;i<13;i++)document.write("<option value="+i+">"+mS[i-1]+"</option>");</script>
+               </select>
+
+          <span class="date ">Year</span>&nbsp;<b >:</b>&nbsp;
+               <select name="year" size="1">
+                  <script type="text/javascript">for(var k=startyear;k<=endyear;k++)document.write("<option value="+k+">"+k+"</option>");</script>
+               </select>
+
+<p style="text-align:center;">
+              <input class="button" name="start" onclick="calage()" value="Calculate" type="button" style="width:100px; margin: 0 auto;">
+       </p>        
+               
+               <input name="age" value="Result"  style="width:100%;">
+               <p class="date1"><a href="https://techbuddies.in/"> You have been living for:</a></p>
+               <table class="table-condensed" style="width:100%">
+                  <tbody>
+                     <tr>
+                        <td class="date-red">In months</b></td>
+                        <td><input name="months" style="width:100%;"></td>
+                     </tr>
+                     <tr>
+                        <td class="date-red">In days</td>
+                        <td><input name="daa" style="width:100%;"></td>
+                     </tr>
+                     <tr>
+                        <td class="date-red">In hours</td>
+                        <td><input name="hours" style="width:100%;"></td>
+                     </tr>
+                     <tr>
+                        <td class="date-red">In minutes</td>
+                        <td><input name="min" style="width:100%;"></td>
+                     </tr>
+                      <tr>
+                        <td class="date-red">In seconds</td>
+                        <td><input name="sec" style="width:100%;"></td>
+                     </tr>
+                     <tr>
+                        <td colspan="2" class="date-red">Your next birthday will be in:</b></td>
+                     </tr>
+                     <tr>
+                        <td colspan="2"><input name="nbday" style="width:100%;"></td>
+                     </tr>
+                  </tbody>
+               </table>
+            </form>
+         </td>
+         <td width="10">&nbsp;</td>
+      </tr>
+   </tbody>
+</table>
+<br/>
+Different cultures have different ways of calculating a person's age. A common age system is used in the calculation of this calculator's results. In this system, the age increases with the birthday of the individual. If a person has lived for 3 years and 11 months, his/her age is 3, and he/she will turn 4 on his/her next birthday, which is one month from now. This age system is used in most western countries.
+
+
+In some cultures, age is indicated by counting years, including or excluding the current year, and some civilizations do not count years. 20-year-olds are equivalent to 21-year-olds, for example. Tradition has it that people in China are born at one year old and their ages increase at the Traditional Chinese New Year instead of their birthdays. As an example, if a baby was born two days before the Chinese New Year, he or she will be two years old while being only two days old.
+
+
+<br/>
+Xoom Free Age Calculator
+If the beginning date is at the end of a month, the months and days output of this age calculator may be perplexing. Example: February 20 through March 20 is considered one month by everyone. To determine the age from February 28, 2015 to March 31, 2015, there are two ways to do it. Because 28 February to 28 March is one month, the answer is one month and three days. 28 February and 31 March are considered the end of the month if both dates are considered. Both outcomes of the calculations appear to be valid. Dates such as April 30 to May 31, June 30 to July 30, etc., are also affected. The inconsistency in the number of days in various months is to blame. In our calculations, the following factors were taken into account.
+<br/>
